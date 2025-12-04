@@ -1,10 +1,42 @@
 [
   {
+    "id": "accord brise",
+    "nom": "Accord Brisé",
+    "clan": "Auralith",
+    "type": "Son - Psychologique",
+    "complexite": "Médium",
+    "contrecoup": "Modéré",
+    "energie": "Moyenne",
+    "description": "L’Accord brisé est une capacité sonore qui génère une note volontairement dissonante. Ce son strident perturbe l’équilibre auditif et mental de ceux qui l’entendent, brisant les harmonies naturelles. Il peut provoquer vertiges, désorientation, nausées, voire hallucinations chez les plus sensibles.",
+    "usages": {
+      "offensifs": [
+        "Perturbation mentale : Désoriente l’ennemi au cœur d’un affrontement, le forçant à stopper son action.",
+        "Rupture de sort : Peut interrompre certains types d’incantations ou de manipulations mentales sensibles en créant un choc auditif.",
+        "Attaque de masse : Utilisé dans un espace clos, il peut affecter tous les ennemis présents."
+      ],
+      "defensifs": [
+        "Contre-manipulation : Brise les illusions ou les envoûtements en instaurant une fracture dans le flux mental des victimes.",
+        "Échappatoire sonore : Permet de créer une diversion intense et douloureuse pour s’enfuir ou regrouper ses forces."
+      ],
+      "pratiques": [
+        "Purification énergétique : Dans certains rituels, l’accord brisé peut servir à briser des liens invisibles ou néfastes, comme des malédictions sonores ou des parasites mentaux.",
+        "En test de résonance : Permet de localiser des anomalies (illusions cachées, perturbations magiques) par résonance dissonante."
+      ]
+    },
+    "limitations": [
+      "Effet non ciblé : L’effet touche toute personne à portée auditive, y compris les alliés. Un usage mal contrôlé peut donc provoquer des dégâts collatéraux.",
+      "Usure vocale : Répéter trop souvent l’accord brisé peut endommager la voix ou l’instrument utilisé comme canal.",
+      "Retour de résonance : Certains environnements peuvent répercuter ou amplifier l’effet, affectant également le lanceur.",
+      "Surcharge sensorielle : Un usage excessif peut entraîner des acouphènes, migraines, ou désorientation temporaire chez le lanceur.",
+      "Inefficace sur les individus sujet à la surdité ou esprits insensibles au son."
+    ]
+  },
+  {
     "id": "aerokinesie",
     "nom": "Aérokinésie",
     "clan": "Auralith",
     "type": "Air",
-    "complexite": "Débutant",
+    "complexite": "Débutant à Expert",
     "contrecoup": "Modéré",
     "energie": "Variable",
     "description": "L’Aérokinésie est la capacité à manipuler l’air, le vent, les courants atmosphériques et l’oxygène autour de soi. Elle permet à l’utilisateur de déplacer, compresser, détourner ou faire circuler l’air ambiant selon ses besoins. Ce don est utilisé pour créer des mouvements de vent localisés, augmenter l’agilité, déstabiliser un adversaire, ou contrôler la respiration dans un espace donné.",
