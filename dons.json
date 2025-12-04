@@ -1,0 +1,35 @@
+[
+  {
+    "id": "aerokinesie",
+    "nom": "Aérokinésie",
+    "clan": "Auralith",
+    "type": "Air",
+    "complexite": "Débutant",
+    "contrecoup": "Modéré",
+    "energie": "Variable",
+    "description": "L’Aérokinésie est la capacité à manipuler l’air, le vent, les courants atmosphériques et l’oxygène autour de soi. Elle permet à l’utilisateur de déplacer, compresser, détourner ou faire circuler l’air ambiant selon ses besoins. Ce don est utilisé pour créer des mouvements de vent localisés, augmenter l’agilité, déstabiliser un adversaire, ou contrôler la respiration dans un espace donné.",
+    "usages": {
+      "offensifs": [
+        "Rafale ciblée : Projette un ennemi en arrière ou déséquilibre sa posture.",
+        "Lame d’air : Condense l’air en un souffle tranchant.",
+        "Privation d’oxygène : Crée un vide temporaire autour du visage d’un adversaire pour l’étouffer quelques secondes (requiert précision)."
+      ],
+      "defensifs": [
+        "Mur de vent : Dévie ou ralentit des projectiles physiques (flèches, poussière, sable).",
+        "Amortissement de chute : Ralentit la descente de l’utilisateur ou d’un allié grâce à un coussin d’air.",
+        "Éloignement d’un gaz nocif : Repousse fumées, spores ou vapeurs toxiques loin d’une zone."
+      ],
+      "pratiques": [
+        "Ventilation localisée : Rafraîchit une pièce ou assainit un espace confiné.",
+        "Déplacement assisté : Propulse légèrement le corps dans une direction (utile pour les sauts ou esquives).",
+        "Sens du vent : Ressent les variations d’air autour de soi pour détecter des mouvements invisibles, des passages secrets ou des présences cachées."
+      ]
+    },
+    "limitations": [
+      "Pas d’effet météorologique : Ne permet pas de manipuler la pluie, les nuages, la température ou l’électricité atmosphérique.",
+      "Maîtrise fine requise : Les effets précis (lame d’air, étouffement ciblé) nécessitent une bonne visualisation et une concentration stable.",
+      "Effet de retour : Une rafale mal dirigée peut revenir vers le lanceur ou affecter ses alliés.",
+      "Fatigue cognitive : Une utilisation continue ou désordonnée peut entraîner des vertiges, des troubles de l’équilibre ou de la respiration."
+    ]
+  }
+]
