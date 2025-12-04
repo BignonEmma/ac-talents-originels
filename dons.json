@@ -2,7 +2,7 @@
   {
     "id": "accord-brise",
     "nom": "Accord Brisé",
-    "clan": "Auralith",
+    "clan": "auralith",
     "type": "Son - Psychologique",
     "complexite": "Médium",
     "contrecoup": "Modéré",
@@ -34,7 +34,7 @@
   {
     "id": "aerokinesie",
     "nom": "Aérokinésie",
-    "clan": "Auralith",
+    "clan": "auralith",
     "type": "Air",
     "complexite": "Débutant à Expert",
     "contrecoup": "Modéré",
@@ -65,9 +65,9 @@
     ]
   },
   {
-  "id": "ancrage_sismique",
+  "id": "ancrage-sismique",
   "nom": "Ancrage Sismique",
-  "clan": "Kharûn",
+  "clan": "kharun",
   "type": "Terre - Gravité",
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
@@ -99,7 +99,7 @@
 {
   "id": "armure-vivante",
   "nom": "Armure Vivante",
-  "clan": "Kharûn",
+  "clan": "kharun",
   "type": "Transmutation - Défensif",
   "complexite": "Médium",
   "contrecoup": "Modéré",
@@ -132,7 +132,7 @@
 {
   "id": "attraction-profonde",
   "nom": "Attraction Profonde",
-  "clan": "Ashkarin",
+  "clan": "ashkarin",
   "type": "Psychologique",
   "complexite": "Médium",
   "contrecoup": "Élevé",
@@ -164,7 +164,7 @@
 {
   "id": "battement-lacerant",
   "nom": "Battement Lacérant",
-  "clan": "Kaerios",
+  "clan": "kaerios",
   "type": "Physique",
   "complexite": "Médium",
   "contrecoup": "Négligeable",
@@ -195,7 +195,7 @@
 {
   "id": "bulles-d-oxygene",
   "nom": "Bulles d’oxygène",
-  "clan": "Ysheïls",
+  "clan": "yshelis",
   "type": "Eau",
   "complexite": "Médium",
   "contrecoup": "Négligeable",
@@ -227,7 +227,7 @@
 {
   "id": "chant-hypnotique",
   "nom": "Chant Hypnotique",
-  "clan": "Yshelis",
+  "clan": "yshelis",
   "type": "Son - Envoûtement",
   "complexite": "Médium",
   "contrecoup": "Modéré",
@@ -260,7 +260,7 @@
 {
   "id": "charge-orageuse",
   "nom": "Charge Orageuse",
-  "clan": "Kaerios",
+  "clan": "kaerios",
   "type": "Électricité",
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
