@@ -7,7 +7,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "L’Accord brisé est une capacité sonore qui génère une note volontairement dissonante. Ce son strident perturbe l’équilibre auditif et mental de ceux qui l’entendent, brisant les harmonies naturelles. Il peut provoquer vertiges, désorientation, nausées, voire hallucinations chez les plus sensibles.",
+    "description": "L’accord brisé est une capacité sonore qui génère une note volontairement dissonante. Ce son strident perturbe l’équilibre auditif et mental de ceux qui l’entendent, brisant les harmonies naturelles. Il peut provoquer vertiges, désorientation, nausées, voire hallucinations chez les plus sensibles.",
     "usages": {
       "offensifs": [
         "Perturbation mentale : Désoriente l’ennemi au cœur d’un affrontement, le forçant à stopper son action.",
@@ -39,7 +39,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "L’Aérokinésie est la capacité à manipuler l’air, le vent, les courants atmosphériques et l’oxygène autour de soi. Elle permet à l’utilisateur de déplacer, compresser, détourner ou faire circuler l’air ambiant selon ses besoins. Ce don est utilisé pour créer des mouvements de vent localisés, augmenter l’agilité, déstabiliser un adversaire, ou contrôler la respiration dans un espace donné.",
+    "description": "L’aérokinésie est la capacité à manipuler l’air, le vent, les courants atmosphériques et l’oxygène autour de soi. Elle permet à l’utilisateur de déplacer, compresser, détourner ou faire circuler l’air ambiant selon ses besoins. Ce don est utilisé pour créer des mouvements de vent localisés, augmenter l’agilité, déstabiliser un adversaire, ou contrôler la respiration dans un espace donné.",
     "usages": {
       "offensifs": [
         "Rafale ciblée : Projette un ennemi en arrière ou déséquilibre sa posture.",
@@ -72,7 +72,7 @@
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
   "energie": "Moyenne",
-  "description": "L’Ancrage sismique permet à l’utilisateur de créer un lien temporaire et profond avec le sol, stabilisant son corps et déclenchant des ondes vibratoires localisées. Cette capacité mêle maîtrise de la terre et contrôle gravitationnel, renforçant la présence physique de l’utilisateur tout en lui permettant d’altérer le terrain par des secousses précises.",
+  "description": "L’ancrage sismique permet à l’utilisateur de créer un lien temporaire et profond avec le sol, stabilisant son corps et déclenchant des ondes vibratoires localisées. Cette capacité mêle maîtrise de la terre et contrôle gravitationnel, renforçant la présence physique de l’utilisateur tout en lui permettant d’altérer le terrain par des secousses précises.",
   "usages": {
     "offensifs": [
       "Onde de choc : Libère une secousse au sol, déséquilibrant les ennemis proches.",
@@ -104,7 +104,7 @@
   "complexite": "Médium",
   "contrecoup": "Modéré",
   "energie": "Variable",
-  "description": "L’Armure vivante permet à l’utilisateur de transformer temporairement sa peau en une surface dure et résistante, d’aspect minéral. Cette couche protectrice agit comme une armure naturelle, capable de résister aux lames, aux chocs, aux températures extrêmes et dans certains cas, à la magie élémentaire. La transformation n’affecte ni les os ni les muscles, mais forme une barrière externe, vivante et densifiée, qui offre une protection efficace sans compromettre totalement la mobilité.",
+  "description": "L’armure vivante permet à l’utilisateur de transformer temporairement sa peau en une surface dure et résistante, d’aspect minéral. Cette couche protectrice agit comme une armure naturelle, capable de résister aux lames, aux chocs, aux températures extrêmes et dans certains cas, à la magie élémentaire. La transformation n’affecte ni les os ni les muscles, mais forme une barrière externe, vivante et densifiée, qui offre une protection efficace sans compromettre totalement la mobilité.",
   "usages": {
     "offensifs": [
       "Corps utilisé comme arme : Les bras et jambes renforcés peuvent causer plus de dégâts au contact (coups de poing, charge, etc.).",
@@ -137,7 +137,7 @@
   "complexite": "Médium",
   "contrecoup": "Élevé",
   "energie": "Moyenne",
-  "description": "L’Attraction profonde est une capacité psychique qui rend le lanceur irrésistible aux yeux des autres. Elle altère les perceptions, créant une illusion d’attirance, d’admiration, voire d’amour. Cette influence peut toucher une personne ou un groupe, rendant le lanceur charismatique et séduisant, capable d’infléchir comportements et décisions. Facile à déclencher, son effet dépend cependant de la maîtrise de l’utilisateur : plus la volonté est stable, plus l’illusion dure.",
+  "description": "L’attraction profonde est une capacité psychique qui rend le lanceur irrésistible aux yeux des autres. Elle altère les perceptions, créant une illusion d’attirance, d’admiration, voire d’amour. Cette influence peut toucher une personne ou un groupe, rendant le lanceur charismatique et séduisant, capable d’infléchir comportements et décisions. Facile à déclencher, son effet dépend cependant de la maîtrise de l’utilisateur : plus la volonté est stable, plus l’illusion dure.",
   "usages": {
     "offensifs": [
       "Manipulation : Influencer les pensées ou les actions d’une cible en la rendant plus réceptive aux suggestions.",
@@ -169,7 +169,7 @@
   "complexite": "Médium",
   "contrecoup": "Négligeable",
   "energie": "Faible",
-  "description": "Le Battement lacérant est une attaque directe et puissante, utilisant la force brute des ailes ou des griffes pour frapper avec une violence accrue. L’impact est renforcé par une énergie magique ou instinctive, ce qui augmente la portée, la vitesse ou la puissance du coup. Relativement facile à déclencher, cette attaque devient redoutable entre les mains d’un combattant expérimenté.",
+  "description": "Le battement lacérant est une attaque directe et puissante, utilisant la force brute des ailes ou des griffes pour frapper avec une violence accrue. L’impact est renforcé par une énergie magique ou instinctive, ce qui augmente la portée, la vitesse ou la puissance du coup. Relativement facile à déclencher, cette attaque devient redoutable entre les mains d’un combattant expérimenté.",
   "usages": {
     "offensifs": [
       "Frappe tranchante : Un battement ou un coup direct qui peut lacérer chair, métal léger ou végétation dense.",
@@ -200,7 +200,7 @@
   "complexite": "Médium",
   "contrecoup": "Négligeable",
   "energie": "Faible",
-  "description": "Les Bulles d’oxygène sont une capacité naturelle qui permet de filtrer l’oxygène dissous dans l’eau pour le concentrer dans une membrane aquatique stable, créant ainsi une bulle respirable. Formée à partir de l’eau elle-même, cette bulle est maintenue par une énergie magique suffisante pour une utilisation ponctuelle : respiration sous-marine, secours d’un non-aquatique, ou communication immergée.",
+  "description": "Les bulles d’oxygène sont une capacité naturelle qui permet de filtrer l’oxygène dissous dans l’eau pour le concentrer dans une membrane aquatique stable, créant ainsi une bulle respirable. Formée à partir de l’eau elle-même, cette bulle est maintenue par une énergie magique suffisante pour une utilisation ponctuelle : respiration sous-marine, secours d’un non-aquatique, ou communication immergée.",
   "usages": {
     "offensifs": [
       "Bulle de diversion : En relâchant plusieurs petites bulles réfléchissantes ou bruyantes, on peut perturber la visibilité ou distraire un adversaire.",
@@ -232,7 +232,7 @@
   "complexite": "Médium",
   "contrecoup": "Modéré",
   "energie": "Moyenne",
-  "description": "Le Chant hypnotique est une capacité vocale qui consiste à émettre un chant doux, répétitif ou envoûtant, capable de plonger les êtres vivants dans un état de transe partielle. Il ralentit les réactions, capte l’attention et agit sur les sens, les émotions et le rythme du corps : battements du cœur, respiration, tension musculaire. Il ne contrôle pas l’esprit, mais affaiblit la volonté, apaise l’agitation mentale ou physique et ouvre une brèche dans les défenses naturelles.",
+  "description": "Le chant hypnotique est une capacité vocale qui consiste à émettre un chant doux, répétitif ou envoûtant, capable de plonger les êtres vivants dans un état de transe partielle. Il ralentit les réactions, capte l’attention et agit sur les sens, les émotions et le rythme du corps : battements du cœur, respiration, tension musculaire. Il ne contrôle pas l’esprit, mais affaiblit la volonté, apaise l’agitation mentale ou physique et ouvre une brèche dans les défenses naturelles.",
   "usages": {
     "offensifs": [
       "Ralenti sensoriel : Les cibles proches entrent dans un état de latence ou de flottement, ralentissant leurs mouvements ou leurs décisions.",
@@ -265,7 +265,7 @@
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
   "energie": "Variable",
-  "description": "La Charge orageuse permet à l’utilisateur de tendre la main vers une source électrique naturelle ou latente ; orage, champ électrique ou énergie atmosphérique. Il ne crée pas l’éclair, mais le canalise : il l’absorbe dans son corps, l’accueille comme une force vivante, puis la redirige, la relâche ou la conserve brièvement. Cette capacité repose sur une fusion temporaire avec l’énergie brute du ciel, à la fois risquée et puissante.",
+  "description": "La charge orageuse permet à l’utilisateur de tendre la main vers une source électrique naturelle ou latente ; orage, champ électrique ou énergie atmosphérique. Il ne crée pas l’éclair, mais le canalise : il l’absorbe dans son corps, l’accueille comme une force vivante, puis la redirige, la relâche ou la conserve brièvement. Cette capacité repose sur une fusion temporaire avec l’énergie brute du ciel, à la fois risquée et puissante.",
   "usages": {
     "offensifs": [
       "Libération ciblée : Redirige la charge stockée sous forme de jet, de décharge à main nue, ou de fouet électrique.",
@@ -287,6 +287,299 @@
     "Temps de rétention limité : L’énergie stockée doit être relâchée rapidement, sous peine de détérioration corporelle.",
     "Non contrôlable à bas niveau : Un débutant risque d’absorber trop d’énergie, de façon imprécise ou incontrôlée.",
     "Effets résiduels : Même maîtrisée, la charge laisse souvent des engourdissements, spasmes musculaires ou picotements violents."
+  ]
+},
+{
+  "id": "cryokinesie",
+  "nom": "Cryokinésie",
+  "clan": "velhaine",
+  "type": "Glace",
+  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La Cryokinésie permet de manipuler, créer et modeler la glace ou le froid, à partir de l’humidité ambiante, d’une source d’eau ou par condensation magique. Elle offre à l’utilisateur la capacité de geler, bloquer, trancher ou figer grâce à des structures glacées variées : pointes, murs, chaînes ou projectiles.",
+  "usages": {
+    "offensifs": [
+      "Projectiles glacés : Lances de glace, pieux, éclats tranchants projetés à distance.",
+      "Congélation ciblée : Gèle un membre ou une surface ennemie, limitant ses mouvements ou causant des engelures.",
+      "Explosion de givre : Libère une onde de froid soudaine qui fige tout autour dans un rayon court."
+    ],
+    "defensifs": [
+      "Mur de glace : Crée une barrière solide et rapide pour bloquer des attaques ou scinder un champ de bataille.",
+      "Cage ou entrave glacée : Enferme un ennemi ou bloque une issue temporairement.",
+      "Renforcement de surface : Gèle le sol pour rendre la progression ennemie difficile ou glissante."
+    ],
+    "pratiques": [
+      "Conservation : Utilisé pour conserver des ressources périssables ou ralentir une décomposition.",
+      "Construction éphémère : Création de ponts, escaliers ou plateformes temporaires.",
+      "Refroidissement : Permet de baisser rapidement la température d’une pièce, d’un objet ou d’un corps."
+    ]
+  },
+  "limitations": [
+    "Besoin d’humidité ambiante : Plus l’environnement est sec ou chaud, plus le pouvoir demande d’énergie pour condenser la glace.",
+    "Fragilité relative : La glace peut être cassée, fondue ou contrée par des éléments opposés (feu, chaleur magique).",
+    "Ralentissement personnel : Une surutilisation peut refroidir le corps du lanceur lui-même, ralentissant ses mouvements ou le rendant plus rigide.",
+    "Risque de gel accidentel : Une mauvaise canalisation peut blesser des alliés proches ou geler des objets importants.",
+    "Utilisation massive fatigante : La création de grandes structures ou d’attaques multiples épuise l’énergie magique."
+  ]
+},
+{
+  "id": "divination-astrale",
+  "nom": "Divination Astrale",
+  "clan": "sylthaen",
+  "type": "Divination",
+  "complexite": "Confirmé",
+  "contrecoup": "Variable",
+  "energie": "Moyenne",
+  "description": "La Divination astrale permet de lire les astres pour recevoir des visions ou des conseils concernant le passé, le présent ou l’avenir. Elle repose sur une connexion profonde aux étoiles et aux cycles célestes, ainsi qu’une grande maîtrise pour interpréter correctement les messages, souvent cryptiques, qu’ils transmettent. Cette capacité peut servir à prédire des événements, répondre à des questions importantes ou guider spirituellement. Mais une interprétation erronée peut entraîner des visions faussées et des conclusions trompeuses.",
+  "usages": {
+    "defensifs": [
+      "Avertissements : Les astres peuvent révéler des dangers imminents, des choix cruciaux à venir ou des opportunités à saisir.",
+      "Événements futurs : Permet de percevoir des fragments d’événements à venir, qu’ils soient personnels ou mondiaux.",
+      "Décryptage de cycles : Comprendre les cycles astrologiques pour anticiper les changements majeurs dans une situation donnée."
+    ],
+    "pratiques": [
+      "Lecture des étoiles : Utilisée lors de rituels pour guider une communauté ou un groupe dans ses décisions importantes.",
+      "Création de cartes astrales : Peut être utilisé pour tracer des cartes célestes détaillées et comprendre les influences astrologiques sur un individu ou une situation.",
+      "Connexion aux esprits célestes : Permet de recevoir des conseils de figures astrales ou de guides spirituels liés aux constellations."
+    ]
+  },
+  "limitations": [
+    "Maîtrise nécessaire : Ce don demande une grande concentration et une connaissance approfondie des astres pour éviter les erreurs d’interprétation. Les visions peuvent être cryptiques, nécessitant une réflexion approfondie pour en comprendre le sens.",
+    "Risque de visions erronées : Une mauvaise lecture des signes célestes peut induire en erreur, provoquant des décisions basées sur de fausses informations.",
+    "Fatigue mentale : Recevoir des visions astrales peut être épuisant, surtout si les visions sont longues ou intenses. Cela peut entraîner des migraines, des vertiges, ou une perte temporaire de la perception du temps.",
+    "Influence des émotions : L’état émotionnel du lanceur peut alterer la précision des visions. Des émotions négatives peuvent provoquer des visions confuses ou effrayantes.",
+    "Dépendance aux cycles célestes : Le don est plus puissant lorsque certaines constellations sont visibles, et peut être affaibli en cas de ciel couvert ou lors de certaines phases lunaires."
+  ]
+},
+{
+  "id": "etat-brumeux",
+  "nom": "État Brumeux",
+  "clan": "velhaine",
+  "type": "Transmutation",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Moyenne",
+  "description": "L’État brumeux permet à l’utilisateur de transformer temporairement tout ou partie de son corps en brume vaporeuse, semi-visible et insaisissable. Il devient alors intangible, insensible aux dégâts physiques directs et capable de traverser de petits interstices.",
+  "usages": {
+    "offensifs": [
+      "Attaque surprise : Réapparaît d’un état brumeux pour frapper un ennemi.",
+      "Phase offensive : Permet d’éviter un contre et de se repositionner rapidement."
+    ],
+    "defensifs": [
+      "Évitement physique : Les attaques physiques passent à travers lui.",
+      "Dissipation momentanée : Difficile à repérer dans un environnement sombre.",
+      "Fuite tactique : Traverse fentes, interstices ou zones étroites."
+    ],
+    "pratiques": [
+      "Infiltration : Traverse un lieu sécurisé sans forcer l’entrée.",
+      "Mobilité verticale : S’élève doucement via des courants d’air.",
+      "Réduction de bruit : Aucun son de pas ou de mouvement."
+    ]
+  },
+  "limitations": [
+    "Sensibilité magique : Reste vulnérable aux attaques magiques.",
+    "Durée limitée : Une forme maintenue trop longtemps risque une perte de cohésion.",
+    "Vents violents : Peuvent disperser la brume.",
+    "Risque de non-réintégration : Retour instable en cas d’interruption brutale."
+  ]
+},
+{
+  "id": "fluctuation-des-esprits",
+  "nom": "Fluctuation des Esprits",
+  "clan": "zanrak",
+  "type": "Invocation - Énergie",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Importante",
+  "description": "La Fluctuation des esprits permet de canaliser l’énergie spirituelle à travers des runes pour capturer l’essence d’un esprit, puis l’infuser dans une arme ou un outil. Le processus confère à l'objet des propriétés uniques selon l’esprit capturé : réactives, offensives, défensives ou destructrices. Cette technique demande une concentration extrême et une maîtrise du forgeron.",
+  "usages": {
+    "offensifs": [
+      "Lames élémentaires : Infuse un esprit de feu, de glace ou de tonnerre dans une arme.",
+      "Armes réactives : Certains esprits réagissent aux émotions, augmentant puissance ou instabilité.",
+      "Absorption d’énergie vitale : Certains esprits vampiriques drainent l’énergie de la cible."
+    ],
+    "defensifs": [
+      "Lames gardiennes : Un esprit protecteur crée une barrière spirituelle.",
+      "Effet dissuasif : Certains esprits génèrent une aura oppressante pour dissuader.",
+      "Résilience spirituelle : L’arme absorbe une partie des chocs magiques."
+    ],
+    "pratiques": [
+      "Armes personnalisées : Création d’outils dotés de propriétés spirituelles particulières.",
+      "Enchantements temporaires : Effets courts mais puissants.",
+      "Rituels sacrés : Utilisé dans des cérémonies comme lien avec un esprit protecteur."
+    ]
+  },
+  "limitations": [
+    "Risque d’imprévisibilité : Esprits instables.",
+    "Niveau variable : Les novices créent des armes faibles ou inefficaces.",
+    "Temps de création long.",
+    "Concentration intense requise.",
+    "Épuisement énergétique important."
+  ]
+},
+{
+  "id": "frappe-crepitante",
+  "nom": "Frappe Crépitante",
+  "clan": "kaerios",
+  "type": "Électricité - Physique",
+  "complexite": "Médium",
+  "contrecoup": "Négligeable",
+  "energie": "Moyenne",
+  "description": "La Frappe crépitante est une attaque de contact, brutale et rapide. L’utilisateur concentre une décharge électrique dans son poing ou sa paume, puis la libère au moment de l’impact. L’électricité, générée de l’intérieur ou puisée dans une réserve personnelle, provoque un craquement sec, une lumière vive et une brève détonation. Le coup inflige des dégâts physiques et peut paralyser temporairement la zone touchée.",
+  "usages": {
+    "offensifs": [
+      "Coup électrifié : Une frappe amplifiée électriquement, provoquant brûlure et spasme à l’impact.",
+      "Frappe paralysante : Vide des nerfs ou points vitaux pour provoquer une perte de contrôle musculaire momentanée.",
+      "Détonation à bout portant : Libération brutale de la charge qui projette un adversaire."
+    ],
+    "defensifs": [
+      "Réflexe défensif : Libère une décharge sur un assaillant trop proche.",
+      "Zone de non-contact : Une version plus avancée permet de maintenir une aura crépitante dissuasive."
+    ],
+    "pratiques": [
+      "Allumage instantané : Génère une étincelle pour déclencher une combustion ou activer un mécanisme électrique.",
+      "Test de réaction magique : Sert à tester la conductivité ou résistance magique d’un objet."
+    ]
+  },
+  "limitations": [
+    "Portée réduite : Strictement au contact.",
+    "Demande de réactivité : La synchronisation entre le coup et la charge est essentielle.",
+    "Risque de retour : La charge peut revenir sur l’utilisateur en cas de mauvaise cible.",
+    "Effet visible et bruyant : N’offre aucune discrétion."
+  ]
+},
+{
+  "id": "frequence-harmonique",
+  "nom": "Fréquence Harmonique",
+  "clan": "auralith",
+  "type": "Son - Vibration",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Importante",
+  "description": "La Fréquence harmonique est une capacité intime, propre à chaque individu, profondément liée à son équilibre intérieur. Elle permet d’émettre une onde sonore ou vibratoire en parfaite résonance avec soi-même. Cette vibration unique, à chacun, peut se propager dans les airs, les objets ou les êtres vivants. Son effet varie selon la personne, ses émotions et sa maîtrise : elle peut apaiser, stimuler ou plonger.",
+  "usages": {
+    "offensifs": [
+      "Vibration déstabilisante : S’utilise avec intention ferme, la fréquence peut désorienter ou briser la concentration d’un adversaire mal aligné spirituellement.",
+      "Réaction amplifiée : Dans un champ déjà chaotique (magique ou émotionnel), elle peut faire éclater les déséquilibres au lieu de les apaiser."
+    ],
+    "defensifs": [
+      "Résonance apaisante : Calme les esprits agités, les émotions fortes ou les douleurs psychiques en harmonisant les vibrations internes.",
+      "Stabilisation magique : Rétablit la stabilité dans une magie instable, une transe ou un rituel en déséquilibre.",
+      "Bouclier vibratoire : Crée une barrière harmonique qui atténue ou annule les effets de sons ou d’ondes dissonantes."
+    ],
+    "pratiques": [
+      "Connexion intime : Permet d’entrer en résonance avec un être, un lieu, un objet pour en percevoir la vérité intérieure ou établir une communication subtile.",
+      "Création magique : Insuffle sa fréquence dans des objets pour les ancrer à sa signature personnelle.",
+      "Diagnostic énergétique : Ressent les déséquilibres dans un individu ou un environnement (corruption, perturbation magique…)."
+    ]
+  },
+  "limitations": [
+    "Dépendance émotionnelle : La fréquence dépend de l’équilibre intérieur du lanceur.",
+    "Épuisement intérieur : L’utilisateur peut ressentir une vidée énergétique importante.",
+    "Neutralisée par certaines dissonances : Certains lieux chaotiques perturbent le don ou le renvoient.",
+    "Risque d’altération : Une mauvaise résonance peut influencer négativement l’esprit du lanceur."
+  ]
+},
+{
+  "id": "gemmokinesie",
+  "nom": "Gemmokinésie",
+  "clan": "rhazarym",
+  "type": "Terre - Minéraux",
+  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La Gemmokinésie est l’art de manipuler les propriétés magiques et physiques des pierres précieuses, cristaux et minéraux rares. Elle permet d’éveiller des gemmes, d'en canaliser l’énergie, ou de les modeler pour créer des structures offensives ou défensives. Contrairement à la géokinésie, elle n’agit pas sur les masses terrestres, mais sur l’essence vibratoire et énergétique du minéral. C’est une discipline à la fois artistique et martiale, fondée sur la précision plus que sur la force brute.",
+  "usages": {
+    "offensifs": [
+      "Éclats de gemmes : Projette des fragments tranchants ou vibrants capables de trancher et couper.",
+      "Laser gemmé : Canalise un rayon focalisé à partir d’un cristal orienté, infligeant des perforations précises.",
+      "Empoisonnement minéral : Certains minéraux rares peuvent être instables ou toxiques s’ils sont projetés sous forme d’aiguilles."
+    ],
+    "defensifs": [
+      "Bouclier cristallin : Erige une barrière de minéraux bruts pour absorber l’énergie ou les projectiles.",
+      "Réflexion magique : Utilise la surface d’une gemme pour réfléchir un sort ciblé ou le dévier.",
+      "Renforcement d’armure : Intègre des gemmes dans une protection existante pour amplifier sa résistance ou neutraliser une faiblesse."
+    ],
+    "pratiques": [
+      "Stockage énergétique : Imprègne une gemme d’énergie magique ou vitale pour la libérer plus tard.",
+      "Amplification de rituels : Place des cristaux en formation autour d’un rituel pour en stabiliser ou intensifier les effets.",
+      "Communication minérale : Utilise deux pierres jumelles pour transmettre voix, images ou émotions à distance."
+    ]
+  },
+  "limitations": [
+    "Dépendance aux matériaux : Sans gemme à proximité, le pouvoir est affaibli.",
+    "Risque de saturation : Une gemme trop utilisée peut se fissurer, exploser ou devenir instable.",
+    "Connaissance spécifique requise : Chaque type de pierre a des effets différents, parfois imprévisibles si mal manipulés.",
+    "Pas de manipulation de pierre brute : La gemmokinésie n’agit pas sur les roches ou matériaux communs."
+  ]
+},
+{
+  "id": "geokinesie",
+  "nom": "Géokinésie",
+  "clan": "kharun",
+  "type": "Terre",
+  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La Géokinésie permet de manipuler la terre, la roche, la boue ou le sable en les déplaçant, sculptant ou projetant selon la volonté du lanceur. Ce pouvoir peut agir uniquement sur des matières naturelles non transformées issues du sol ou des montagnes, qu’elles soient denses comme la pierre ou souples comme la poussière. Il peut être utilisé pour attaquer, se défendre, modifier un terrain ou créer des structures adaptées à la situation.",
+  "usages": {
+    "offensifs": [
+      "Piques rocheuses : Fait jaillir une ou plusieurs pointes de pierre pour transpercer ou déséquilibrer.",
+      "Projectile de roche : Arrache un fragment du sol pour le lancer à grande vitesse.",
+      "Marteau de terre : Condense un bloc de pierre ou de boue pour frapper violemment un ennemi au corps-à-corps.",
+      "Sable mouvant contrôlé : Le terrain meuble peut engloutir ou piéger les jambes d’un adversaire."
+    ],
+    "defensifs": [
+      "Mur de roche : Erige un rempart solide pour bloquer une attaque frontale.",
+      "Enrochement personnel : Forme une carapace partielle autour du corps pour encaisser un impact.",
+      "Déviation minérale : Crée un soulèvement du terrain pour modifier la trajectoire d’un projectile ou d’un sort."
+    ],
+    "pratiques": [
+      "Modification du terrain : Aplanissement, creusement, ouverture d’un tunnel ou d’un passage temporaire.",
+      "Construction sommaire : Création rapide de ponts, marches, plateformes, abris rudimentaires.",
+      "Stabilisation de zone : Empêche un glissement de terrain, renforce une structure affaiblie, ferme une fissure."
+    ]
+  },
+  "limitations": [
+    "Dépend du type de sol : Moins efficace en milieux artificiels, sur sols métalliques ou aquatiques.",
+    "Lenteur relative : Les actions massives prennent plus de temps à générer que les sorts élémentaires plus légers.",
+    "Risque d’effondrement : Une mauvaise manipulation peut déclencher un éboulement et piéger le lanceur.",
+    "Consomme beaucoup d’énergie sur du terrain dur ou dense comme le granite ou le basalte."
+  ]
+},
+{
+  "id": "givre-sculptural",
+  "nom": "Givre Sculptural",
+  "clan": "velhaine",
+  "type": "Glace - Création",
+  "complexite": "Expert",
+  "contrecoup": "Modéré",
+  "energie": "Importante",
+  "description": "Le Givre sculptural permet de créer des structures de glace façonnées avec précision, puis de leur insuffler un mouvement ou une vitalité magique temporaire. Ce ne sont pas des invocations classiques, mais des créations nées de l’imagination, de la volonté et du contrôle du lanceur. Elles peuvent prendre la forme de statues, armes, créatures animées, sentinelles ou autres objets simples. Plus la forme est complexe ou puissante, plus elle demande de temps ou d’énergie à sculpter.",
+  "usages": {
+    "offensifs": [
+      "Créature de glace animée : Un golem, une bête, ou une armure animée qui attaque à la place de l'utilisateur.",
+      "Arme vivante : Une lance ou un fouet de glace qui bouge de lui-même pour frapper ou parer.",
+      "Assaut en meute : Invoquer plusieurs petites créatures mobiles mais fragiles pour harceler un adversaire."
+    ],
+    "defensifs": [
+      "Gardien statique : Une sentinelle qui reste postée à une entrée ou à proximité du porteur.",
+      "Mur vivant : Une sculpture mouvante qui absorbe les coups ou bloque le passage.",
+      "Distraction mobile : Une copie du porteur ou un être imposant pour détourner l’attention."
+    ],
+    "pratiques": [
+      "Création artistique magique : Formes sculptées utilisées dans les cérémonies, les rites ou les démonstrations de maîtrise.",
+      "Construction tactique : Ponts, escaliers ou plateformes mobiles façonnées et maintenues par animation.",
+      "Signal ou langage visuel : Messages codés ou emblèmes animés transmettant des intentions sans parole."
+    ]
+  },
+  "limitations": [
+    "Durée limitée : Les créations de givre animées ne durent que quelques minutes à quelques heures, selon leur complexité.",
+    "Fragilité élémentaire : La glace reste sensible à la chaleur, au feu, aux vibrations puissantes.",
+    "Charge mentale : Plus la création est détaillée ou nombreuse, plus elle demande de concentration et d’énergie psychique.",
+    "Incapacité à penser : Les créations ne possèdent pas de volonté propre ; elles obéissent strictement aux ordres simples prévus à l’avance.",
+    "Temps de \"sculpture\" : Plus la forme est ambitieuse, plus le temps nécessaire à la modeler ralentit son usage en combat actif."
   ]
 }
 ]
