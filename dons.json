@@ -297,7 +297,7 @@
   "complexite": "Débutant, Médium, Confirmé, Expert",
   "contrecoup": "Variable",
   "energie": "Variable",
-  "description": "La Cryokinésie permet de manipuler, créer et modeler la glace ou le froid, à partir de l’humidité ambiante, d’une source d’eau ou par condensation magique. Elle offre à l’utilisateur la capacité de geler, bloquer, trancher ou figer grâce à des structures glacées variées : pointes, murs, chaînes ou projectiles.",
+  "description": "La cryokinésie permet de manipuler, créer et modeler la glace ou le froid, à partir de l’humidité ambiante, d’une source d’eau ou par condensation magique. Elle offre à l’utilisateur la capacité de geler, bloquer, trancher ou figer grâce à des structures glacées variées : pointes, murs, chaînes ou projectiles.",
   "usages": {
     "offensifs": [
       "Projectiles glacés : Lances de glace, pieux, éclats tranchants projetés à distance.",
@@ -331,8 +331,11 @@
   "complexite": "Confirmé",
   "contrecoup": "Variable",
   "energie": "Moyenne",
-  "description": "La Divination astrale permet de lire les astres pour recevoir des visions ou des conseils concernant le passé, le présent ou l’avenir. Elle repose sur une connexion profonde aux étoiles et aux cycles célestes, ainsi qu’une grande maîtrise pour interpréter correctement les messages, souvent cryptiques, qu’ils transmettent. Cette capacité peut servir à prédire des événements, répondre à des questions importantes ou guider spirituellement. Mais une interprétation erronée peut entraîner des visions faussées et des conclusions trompeuses.",
+  "description": "La divination astrale permet de lire les astres pour recevoir des visions ou des conseils concernant le passé, le présent ou l’avenir. Elle repose sur une connexion profonde aux étoiles et aux cycles célestes, ainsi qu’une grande maîtrise pour interpréter correctement les messages, souvent cryptiques, qu’ils transmettent. Cette capacité peut servir à prédire des événements, répondre à des questions importantes ou guider spirituellement. Mais une interprétation erronée peut entraîner des visions faussées et des conclusions trompeuses.",
   "usages": {
+    "offensifs": [
+      "n/a"
+    ],
     "defensifs": [
       "Avertissements : Les astres peuvent révéler des dangers imminents, des choix cruciaux à venir ou des opportunités à saisir.",
       "Événements futurs : Permet de percevoir des fragments d’événements à venir, qu’ils soient personnels ou mondiaux.",
@@ -360,7 +363,7 @@
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
   "energie": "Moyenne",
-  "description": "L’État brumeux permet à l’utilisateur de transformer temporairement tout ou partie de son corps en brume vaporeuse, semi-visible et insaisissable. Il devient alors intangible, insensible aux dégâts physiques directs et capable de traverser de petits interstices.",
+  "description": "L’état brumeux permet à l’utilisateur de transformer temporairement tout ou partie de son corps en brume vaporeuse, semi-visible et insaisissable. Il devient alors intangible, insensible aux dégâts physiques directs et capable de traverser de petits interstices.",
   "usages": {
     "offensifs": [
       "Attaque surprise : Réapparaît d’un état brumeux pour frapper un ennemi.",
@@ -392,7 +395,7 @@
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
   "energie": "Importante",
-  "description": "La Fluctuation des esprits permet de canaliser l’énergie spirituelle à travers des runes pour capturer l’essence d’un esprit, puis l’infuser dans une arme ou un outil. Le processus confère à l'objet des propriétés uniques selon l’esprit capturé : réactives, offensives, défensives ou destructrices. Cette technique demande une concentration extrême et une maîtrise du forgeron.",
+  "description": "La fluctuation des esprits permet de canaliser l’énergie spirituelle à travers des runes pour capturer l’essence d’un esprit, puis l’infuser dans une arme ou un outil. Le processus confère à l'objet des propriétés uniques selon l’esprit capturé : réactives, offensives, défensives ou destructrices. Cette technique demande une concentration extrême et une maîtrise du forgeron.",
   "usages": {
     "offensifs": [
       "Lames élémentaires : Infuse un esprit de feu, de glace ou de tonnerre dans une arme.",
@@ -426,7 +429,7 @@
   "complexite": "Médium",
   "contrecoup": "Négligeable",
   "energie": "Moyenne",
-  "description": "La Frappe crépitante est une attaque de contact, brutale et rapide. L’utilisateur concentre une décharge électrique dans son poing ou sa paume, puis la libère au moment de l’impact. L’électricité, générée de l’intérieur ou puisée dans une réserve personnelle, provoque un craquement sec, une lumière vive et une brève détonation. Le coup inflige des dégâts physiques et peut paralyser temporairement la zone touchée.",
+  "description": "La frappe crépitante est une attaque de contact, brutale et rapide. L’utilisateur concentre une décharge électrique dans son poing ou sa paume, puis la libère au moment de l’impact. L’électricité, générée de l’intérieur ou puisée dans une réserve personnelle, provoque un craquement sec, une lumière vive et une brève détonation. Le coup inflige des dégâts physiques et peut paralyser temporairement la zone touchée.",
   "usages": {
     "offensifs": [
       "Coup électrifié : Une frappe amplifiée électriquement, provoquant brûlure et spasme à l’impact.",
@@ -457,7 +460,7 @@
   "complexite": "Confirmé",
   "contrecoup": "Modéré",
   "energie": "Importante",
-  "description": "La Fréquence harmonique est une capacité intime, propre à chaque individu, profondément liée à son équilibre intérieur. Elle permet d’émettre une onde sonore ou vibratoire en parfaite résonance avec soi-même. Cette vibration unique, à chacun, peut se propager dans les airs, les objets ou les êtres vivants. Son effet varie selon la personne, ses émotions et sa maîtrise : elle peut apaiser, stimuler ou plonger.",
+  "description": "La fréquence harmonique est une capacité intime, propre à chaque individu, profondément liée à son équilibre intérieur. Elle permet d’émettre une onde sonore ou vibratoire en parfaite résonance avec soi-même. Cette vibration unique, à chacun, peut se propager dans les airs, les objets ou les êtres vivants. Son effet varie selon la personne, ses émotions et sa maîtrise : elle peut apaiser, stimuler ou plonger.",
   "usages": {
     "offensifs": [
       "Vibration déstabilisante : S’utilise avec intention ferme, la fréquence peut désorienter ou briser la concentration d’un adversaire mal aligné spirituellement.",
@@ -489,7 +492,7 @@
   "complexite": "Débutant, Médium, Confirmé, Expert",
   "contrecoup": "Variable",
   "energie": "Variable",
-  "description": "La Gemmokinésie est l’art de manipuler les propriétés magiques et physiques des pierres précieuses, cristaux et minéraux rares. Elle permet d’éveiller des gemmes, d'en canaliser l’énergie, ou de les modeler pour créer des structures offensives ou défensives. Contrairement à la géokinésie, elle n’agit pas sur les masses terrestres, mais sur l’essence vibratoire et énergétique du minéral. C’est une discipline à la fois artistique et martiale, fondée sur la précision plus que sur la force brute.",
+  "description": "La gemmokinésie est l’art de manipuler les propriétés magiques et physiques des pierres précieuses, cristaux et minéraux rares. Elle permet d’éveiller des gemmes, d'en canaliser l’énergie, ou de les modeler pour créer des structures offensives ou défensives. Contrairement à la géokinésie, elle n’agit pas sur les masses terrestres, mais sur l’essence vibratoire et énergétique du minéral. C’est une discipline à la fois artistique et martiale, fondée sur la précision plus que sur la force brute.",
   "usages": {
     "offensifs": [
       "Éclats de gemmes : Projette des fragments tranchants ou vibrants capables de trancher et couper.",
@@ -522,7 +525,7 @@
   "complexite": "Débutant, Médium, Confirmé, Expert",
   "contrecoup": "Variable",
   "energie": "Variable",
-  "description": "La Géokinésie permet de manipuler la terre, la roche, la boue ou le sable en les déplaçant, sculptant ou projetant selon la volonté du lanceur. Ce pouvoir peut agir uniquement sur des matières naturelles non transformées issues du sol ou des montagnes, qu’elles soient denses comme la pierre ou souples comme la poussière. Il peut être utilisé pour attaquer, se défendre, modifier un terrain ou créer des structures adaptées à la situation.",
+  "description": "La géokinésie permet de manipuler la terre, la roche, la boue ou le sable en les déplaçant, sculptant ou projetant selon la volonté du lanceur. Ce pouvoir peut agir uniquement sur des matières naturelles non transformées issues du sol ou des montagnes, qu’elles soient denses comme la pierre ou souples comme la poussière. Il peut être utilisé pour attaquer, se défendre, modifier un terrain ou créer des structures adaptées à la situation.",
   "usages": {
     "offensifs": [
       "Piques rocheuses : Fait jaillir une ou plusieurs pointes de pierre pour transpercer ou déséquilibrer.",
@@ -556,7 +559,7 @@
   "complexite": "Expert",
   "contrecoup": "Modéré",
   "energie": "Importante",
-  "description": "Le Givre sculptural permet de créer des structures de glace façonnées avec précision, puis de leur insuffler un mouvement ou une vitalité magique temporaire. Ce ne sont pas des invocations classiques, mais des créations nées de l’imagination, de la volonté et du contrôle du lanceur. Elles peuvent prendre la forme de statues, armes, créatures animées, sentinelles ou autres objets simples. Plus la forme est complexe ou puissante, plus elle demande de temps ou d’énergie à sculpter.",
+  "description": "Le givre sculptural permet de créer des structures de glace façonnées avec précision, puis de leur insuffler un mouvement ou une vitalité magique temporaire. Ce ne sont pas des invocations classiques, mais des créations nées de l’imagination, de la volonté et du contrôle du lanceur. Elles peuvent prendre la forme de statues, armes, créatures animées, sentinelles ou autres objets simples. Plus la forme est complexe ou puissante, plus elle demande de temps ou d’énergie à sculpter.",
   "usages": {
     "offensifs": [
       "Créature de glace animée : Un golem, une bête, ou une armure animée qui attaque à la place de l'utilisateur.",
@@ -579,7 +582,7 @@
     "Fragilité élémentaire : La glace reste sensible à la chaleur, au feu, aux vibrations puissantes.",
     "Charge mentale : Plus la création est détaillée ou nombreuse, plus elle demande de concentration et d’énergie psychique.",
     "Incapacité à penser : Les créations ne possèdent pas de volonté propre ; elles obéissent strictement aux ordres simples prévus à l’avance.",
-    "Temps de \"sculpture\" : Plus la forme est ambitieuse, plus le temps nécessaire à la modeler ralentit son usage en combat actif."
+    "Temps de sculpture : Plus la forme est ambitieuse, plus le temps nécessaire à la modeler ralentit son usage en combat actif."
   ]
 }
 ]
