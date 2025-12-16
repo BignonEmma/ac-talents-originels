@@ -294,7 +294,7 @@
   "nom": "Cryokinésie",
   "clan": "velhaine",
   "type": "Glace",
-  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "complexite": "Débutant à Expert",
   "contrecoup": "Variable",
   "energie": "Variable",
   "description": "La cryokinésie permet de manipuler, créer et modeler la glace ou le froid, à partir de l’humidité ambiante, d’une source d’eau ou par condensation magique. Elle offre à l’utilisateur la capacité de geler, bloquer, trancher ou figer grâce à des structures glacées variées : pointes, murs, chaînes ou projectiles.",
@@ -489,7 +489,7 @@
   "nom": "Gemmokinésie",
   "clan": "rhazarym",
   "type": "Terre - Minéraux",
-  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "complexite": "Débutant à Expert",
   "contrecoup": "Variable",
   "energie": "Variable",
   "description": "La gemmokinésie est l’art de manipuler les propriétés magiques et physiques des pierres précieuses, cristaux et minéraux rares. Elle permet d’éveiller des gemmes, d'en canaliser l’énergie, ou de les modeler pour créer des structures offensives ou défensives. Contrairement à la géokinésie, elle n’agit pas sur les masses terrestres, mais sur l’essence vibratoire et énergétique du minéral. C’est une discipline à la fois artistique et martiale, fondée sur la précision plus que sur la force brute.",
@@ -522,7 +522,7 @@
   "nom": "Géokinésie",
   "clan": "kharun",
   "type": "Terre",
-  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "complexite": "Débutant à Expert",
   "contrecoup": "Variable",
   "energie": "Variable",
   "description": "La géokinésie permet de manipuler la terre, la roche, la boue ou le sable en les déplaçant, sculptant ou projetant selon la volonté du lanceur. Ce pouvoir peut agir uniquement sur des matières naturelles non transformées issues du sol ou des montagnes, qu’elles soient denses comme la pierre ou souples comme la poussière. Il peut être utilisé pour attaquer, se défendre, modifier un terrain ou créer des structures adaptées à la situation.",
@@ -553,7 +553,7 @@
 },
 {
   "id": "givre-sculptural",
-  "nom": "Givre Sculptural",
+  "nom": "Givre sculptural",
   "clan": "velhaine",
   "type": "Glace - Création",
   "complexite": "Expert",
@@ -583,6 +583,1060 @@
     "Charge mentale : Plus la création est détaillée ou nombreuse, plus elle demande de concentration et d’énergie psychique.",
     "Incapacité à penser : Les créations ne possèdent pas de volonté propre ; elles obéissent strictement aux ordres simples prévus à l’avance.",
     "Temps de sculpture : Plus la forme est ambitieuse, plus le temps nécessaire à la modeler ralentit son usage en combat actif."
+  ]
+},
+{
+  "id": "glace-eternelle",
+  "nom": "Glace éternelle",
+  "clan": "velhaine",
+  "type": "Glace - Physiologique",
+  "complexite": "Confirmé",
+  "contrecoup": "Élevé",
+  "energie": "Variable",
+  "description": "La glace éternelle est une capacité de contact qui permet d’injecter un froid surnaturel directement dans le corps d’un être vivant par une morsure. Ce froid ne congèle pas la surface, mais ralentit les fonctions vitales internes : circulation, respiration, activité cellulaire... Utilisée avec précision, elle peut stabiliser une blessure grave, freiner une infection ou plonger un corps dans un sommeil suspendu. Mal maîtrisée ou utilisée avec hostilité, elle peut figer lentement une cible jusqu’à la stase totale ; voire provoquer une mort progressive, sans douleur apparente.",
+  "usages": {
+    "offensifs": [
+      "Saturation interne : En cas de surdose, le froid interne gèle lentement les organes ou les nerfs, provoquant un affaiblissement extrême.",
+      "Paralysie douce : Injecte un froid subtil qui ralentit les mouvements et trouble la coordination sans blesser visiblement.",
+      "Condamnation silencieuse : Utilisé comme forme d’exécution lente, sans effusion de sang ni trace physique directe."
+    ],
+    "defensifs": [
+      "Stase d’urgence : Ralentit les battements du cœur et l’activité corporelle pour gagner du temps en cas de blessure grave.",
+      "Blocage d’une propagation : Stoppe temporairement l’avancée d’un poison, d’une corruption magique ou d’une infection foudroyante."
+    ],
+    "pratiques": [
+      "Création artistique magique : Formes sculptées utilisées dans les cérémonies, les rites ou les démonstrations de maîtrise.",
+      "Construction tactique : Ponts, escaliers ou plateformes mobiles façonnées et maintenues par animation.",
+      "Signal ou langage visuel : Messages codés ou emblèmes animés transmettant des intentions sans parole."
+    ]
+  },
+  "limitations": [
+    "Anesthésie partielle : Gèle temporairement une zone interne pour réduire la douleur ou préparer un acte médical risqué.",
+    "Repos sacré : Certains peuples utilisent ce don pour placer les mourants dans une stase paisible, leur laissant le temps de se préparer.",
+    "Conservation rituelle : Permet de préserver un corps ou une relique vivante pour des cérémonies futures."
+  ]
+},
+{
+  "id": "glace-eternelle",
+  "nom": "Glace éternelle",
+  "clan": "velhaine",
+  "type": "Glace - Physiologique",
+  "complexite": "Confirmé",
+  "contrecoup": "Élevé",
+  "energie": "Variable",
+  "description": "La glace éternelle est une capacité de contact qui permet d’injecter un froid surnaturel directement dans le corps d’un être vivant par une morsure. Ce froid ne congèle pas la surface, mais ralentit les fonctions vitales internes : circulation, respiration, activité cellulaire... Utilisée avec précision, elle peut stabiliser une blessure grave, freiner une infection ou plonger un corps dans un sommeil suspendu. Mal maîtrisée ou utilisée avec hostilité, elle peut figer lentement une cible jusqu’à la stase totale ; voire provoquer une mort progressive, sans douleur apparente.",
+  "usages": {
+    "offensifs": [
+      "Saturation interne : En cas de surdose, le froid interne gèle lentement les organes ou les nerfs, provoquant un affaiblissement extrême.",
+      "Paralysie douce : Injecte un froid subtil qui ralentit les mouvements et trouble la coordination sans blesser visiblement.",
+      "Condamnation silencieuse : Utilisé comme forme d’exécution lente, sans effusion de sang ni trace physique directe."
+    ],
+    "defensifs": [
+      "Stase d’urgence : Ralentit les battements du cœur et l’activité corporelle pour gagner du temps en cas de blessure grave.",
+      "Blocage d’une propagation : Stoppe temporairement l’avancée d’un poison, d’une corruption magique ou d’une infection foudroyante."
+    ],
+    "pratiques": [
+      "Anesthésie partielle : Gèle temporairement une zone interne pour réduire la douleur ou préparer un acte médical risqué.",
+      "Repos sacré : Certains peuples utilisent ce don pour placer les mourants dans une stase paisible, leur laissant le temps de se préparer.",
+      "Conservation rituelle : Permet de préserver un corps ou une relique vivante pour des cérémonies futures."
+    ]
+  },
+  "limitations": [
+    "Proximité nécessaire : Le froid doit être injecté par une morsure. Pas d’usage à distance.",
+    "Fragilité corporelle ciblée : Toute erreur de dosage peut geler un organe vital ou causer des dégâts internes irréversibles.",
+    "Contamination éclair :  Une erreur peut entraîner la contamination de l’utilisateur.",
+    "Forme de dépendance : Chez des sujets affaiblis, la glace éternelle peut remplacer artificiellement la vie, rendant la personne dépendante du froid pour survivre."
+  ]
+},
+{
+  "id": "gouttes-de-lune",
+  "nom": "Gouttes de lune",
+  "clan": "sylthaen",
+  "type": "Soin - Canalisation",
+  "complexite": "Expert",
+  "contrecoup": "Négligeable",
+  "energie": "Moyenne",
+  "description": "Les gouttes de lune permettent de canaliser l’énergie lunaire pour plonger l’utilisateur dans un sommeil profond et régénérant. Ce repos induit par la lune accélère la récupération physique et mentale, procurant une détente intense et un rétablissement accéléré. Utilisée principalement après un effort prolongé ou un combat éprouvant, cette pratique favorise une guérison naturelle amplifiée par la lumière nocturne.",
+  "usages": {
+    "offensifs": [
+      "n/a"
+    ],
+    "defensifs": [
+      "Récupération rapide : Permet à l’utilisateur de récupérer plus rapidement son énergie physique et magique durant la nuit.",
+      "Soins légers : Accélère la guérison des blessures mineures et soulage la fatigue mentale.",
+      "Apaisement émotionnel : Réduit le stress et les pensées envahissantes, favorisant un sommeil plus profond et réparateur."
+    ],
+    "pratiques": [
+      "Repos accéléré : Même une courte sieste sous l'influence des Gouttes de Lune est aussi bénéfique qu'une nuit complète de sommeil.",
+      "Préparation mentale : Permet de clarifier les pensées et de renforcer la volonté avant un événement important."
+    ]
+  },
+  "limitations": [
+    "Nécessite une phase de canalisation : Il faut un moment de concentration pour activer pleinement le don et entrer dans le sommeil profond. Sans une canalisation correcte, le sommeil reste superficiel et peu efficace.",
+    "Dépendance à la lumière lunaire : Ce don est plus efficace sous une pleine lune et beaucoup moins sous une lune invisible ou dans des environnements complètement clos (comme des grottes).",
+    "Risque de 'sur-sommeil' : Si l’utilisateur reste trop longtemps sous l’influence des Gouttes de Lune, il risque de sombrer dans un état léthargique difficile à rompre, le rendant vulnérable aux attaques ou aux perturbations extérieures.",
+    "Risque émotionnel : En cas de surcharge émotionnelle (stress ou peur intense), le don peut être plus difficile à activer ou se rompre avant que la récupération ne soit complète."
+  ]
+},
+{
+  "id": "harmonie-sonore",
+  "nom": "Harmonie sonore",
+  "clan": "lunthiel",
+  "type": "Influence - Nature",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Moyenne",
+  "description": "L’harmonie sonore permet à l’utilisateur d’émettre des sons imperceptibles pour les autres, mais parfaitement compréhensibles par les animaux. Ces fréquences ciblées influencent le comportement des créatures, les poussant à aider, protéger ou attaquer selon la volonté du lanceur. Contrairement au zoolinguisme, qui repose sur l’écoute et la compréhension passive, cette capacité agit de façon active, en guidant ou en manipulant directement la faune environnante.",
+  "usages": {
+    "offensifs": [
+      "Commande d'attaque : Incite des animaux à attaquer une cible spécifique (par exemple, un essaim d’insectes ou une meute de loups).",
+      "Dissuasion : Provoque des bruits ou des comportements intimidants chez les animaux pour effrayer un ennemi.",
+      "Diversion : Utilise des animaux pour créer une distraction, permettant au lanceur de s’échapper ou de se cacher."
+    ],
+    "defensifs": [
+      "Appel à l’aide : Incite les animaux à protéger le lanceur ou ses alliés en formant une barrière naturelle (oiseaux en vol, animaux de grande taille).",
+      "Apaisement : Calme une créature agressive ou paniquée, réduisant le risque de conflit.",
+      "Surveillance animale : Utilise des oiseaux ou des créatures nocturnes pour surveiller une zone et signaler la présence d'intrus."
+    ],
+    "pratiques": [
+      "Guidage : Demande à un animal de guider le lanceur ou ses alliés à travers un territoire inconnu.",
+      "Rassemblement : Appelle des créatures spécifiques (comme des chevaux) à se rassembler autour du lanceur.",
+      "Soins naturels : Utilise des animaux pour aider dans des soins ou des tâches pratiques (comme chercher des plantes médicinales ou porter des objets légers)."
+    ]
+  },
+  "limitations": [
+   "Dépendance aux animaux présents : L’Harmonie Sonore ne fonctionne que si des animaux à proximité sont disponibles et réceptifs.",
+   "Compréhension limitée : Les animaux réagissent à des sons instinctivement, mais leurs actions peuvent être imprévisibles. Il faut connaître leurs comportements pour éviter les erreurs.",
+   "Durée limitée : Maintenir l’influence sonore pendant une longue période demande une concentration soutenue, ce qui peut entraîner une fatigue mentale.",
+   "Risque de surstimulation : Une utilisation excessive du don peut agiter ou désorienter les animaux, les rendant hostiles ou incontrôlables.",
+   "Sensibilité émotionnelle : Si le lanceur est perturbé émotionnellement, ses sons peuvent devenir instables, provoquant des effets indésirables sur les animaux ciblés."
+  ]
+},
+{
+  "id": "hurlement-celeste",
+  "nom": "Hurlement célèste",
+  "clan": "kaerios",
+  "type": "Son",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Variable",
+  "description": "Le hurlement céleste est un rugissement amplifié par la magie, projeté comme une onde sonore capable d’infliger des dégâts, d’intimider ou d’interagir avec certains éléments magiques ou mécaniques. Plus qu’un simple cri, c’est une vibration canalisée par la gorge et la volonté. Il peut briser des objets fragiles, ébranler les esprits faibles ou même déverrouiller des portes mystiques, comme s’il réveillait quelque chose d’enfoui dans la matière.",
+  "usages": {
+    "offensifs": [
+      "Onde de choc frontale : Projette les ennemis proches, les déséquilibre ou les assomme brièvement.",
+      "Hurlement assourdissant : Provoque surdité temporaire, confusion mentale ou migraines à ceux qui l’entendent de trop près.",
+      "Cri perçant : Capable de fracturer du verre, de la roche fragile ou des constructions instables."
+    ],
+    "defensifs": [
+      "Cri intimidant : Fait reculer ou hésiter des adversaires moins expérimentés ou sensibles aux émotions.",
+      "Zone de silence : Le hurlement peut interrompre un rituel adverse ou casser une concentration magique dans sa zone d’impact."
+    ],
+    "pratiques": [
+      "Résonance ancienne : Peut ouvrir des portes magiques, activer des mécanismes, ou réveiller des runes liées à la vibration ou à l’éveil spirituel.",
+      "Appel céleste : Utilisé pour communiquer, signaler une position ou avertir d’un danger."
+    ]
+  },
+  "limitations": [
+   "Effort vocal extrême : Ce hurlement puise dans les cordes vocales et la volonté brute. Peut entraîner une extinction de voix, des douleurs thoraciques ou un saignement léger.",
+   "Effet non sélectif : Toute personne dans la zone d’effet peut être impactée, y compris les alliés.",
+   "Risque de résonance instable : En cas d’usage dans une structure sensible (caverne, bâtiment ancien), le hurlement peut provoquer un effondrement partiel ou imprévu."
+  ]
+},
+{
+  "id": "hydrokinesie",
+  "nom": "Hydrokinésie",
+  "clan": "yshelis",
+  "type": "Eau",
+  "complexite": "Débutant à Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "L’hydrokinésie permet de contrôler, déplacer et modeler l’eau sous forme liquide, qu’elle soit stagnante, en mouvement ou en suspension. L’utilisateur peut diriger des flux, créer des formes, exercer une pression, trancher, protéger ou purifier à l’aide de l’eau. Cette capacité n’altère pas l’état de l’eau, mais l’utilise telle quelle, en réponse à la volonté, aux gestes ou à la concentration de celui qui la manie.",
+  "usages": {
+    "offensifs": [
+      "Jet pressurisé : Lancer un trait d’eau à haute pression pouvant trancher tissus, végétaux ou objets fragiles.",
+      "Fouet d’eau : Utiliser un bras d’eau souple pour frapper, désarmer ou entraver un ennemi.",
+      "Entrave liquide : Former une masse d’eau autour d’un membre pour ralentir ou déséquilibrer."
+    ],
+    "defensifs": [
+      "Mur d’eau : Élever une vague ou un rideau pour absorber ou ralentir des projectiles ou des attaques physiques.",
+      "Détournement de trajectoire : Utiliser l’eau pour faire glisser ou dévier un assaillant ou une attaque.",
+      "Protection souple : Enrober une partie du corps d’un flux fluide pour amortir un coup ou neutraliser un poison de contact."
+    ],
+    "pratiques": [
+      "Nettoyage / purification : Déplacer ou filtrer de l’eau pour rendre un espace propre ou sain.",
+      "Ascenseur ou escalier liquide : Créer une élévation douce à l’aide d’une colonne ou vague contrôlée.",
+      "Portage d’objet : Maintenir un objet en suspension dans une bulle d’eau pour le transporter sans contact direct."
+
+    ]
+  },
+  "limitations": [
+   "Bénéficie d’une source d’eau présente : Plus il y a d’eau, plus le don est puissant ; presqu’inefficace dans les milieux arides.",
+   "Fatigue liée à la forme : Plus la forme d’eau est complexe ou précise, plus elle demande de concentration.",
+   "Pas de transformation d’état : Le don ne la gèle pas, ni ne la transforme pas en vapeur.",
+   "Résistance à la pression : Des cibles lourdes, magiques ou ancrées au sol résisteront à un flux normal."
+  ]
+},
+{
+  "id": "insufflation-d-energie",
+  "nom": "Insufflation d'énergie",
+  "clan": "ashkarin",
+  "type": "Enchantement - Energie",
+  "complexite": "Confirmé",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "L’insufflation d’énergie est une capacité utilisée pour créer des talismans magiques. Par la méditation, l’utilisateur canalise son énergie vitale et sa volonté pour imprégner un objet d’un effet spécifique. Ces talismans peuvent accorder divers avantages, comme le camouflage, l’amplification de pouvoirs ou la protection contre les malédictions. La puissance et la durée de l’effet dépendent de l’expérience : un pratiquant aguerri peut créer des enchantements puissants et durables, tandis qu’un novice produit souvent des effets temporaires ou instables.",
+  "usages": {
+    "offensifs": [
+      "Talisman de force : Amplifie temporairement la force physique ou magique de l’utilisateur.",
+      "Talisman de feu : Permet à l’utilisateur de générer ou de manipuler des flammes plus puissantes.",
+      "Talisman de paralysie : Affecte la cible en provoquant une immobilisation temporaire."
+    ],
+    "defensifs": [
+      "Talisman bouclier : Crée une barrière magique pour protéger l’utilisateur contre les attaques physiques ou magiques.",
+      "Talisman anti-malédiction : Repousse les malédictions ou les effets magiques néfastes dirigés contre l’utilisateur.",
+      "Talisman de purification : Dissipe les énergies négatives ou les entités maléfiques présentes dans une zone."
+    ],
+    "pratiques": [
+      "Talisman de camouflage : Rends l’utilisateur invisible ou difficile à détecter.",
+      "Talisman de sérénité : Favorise la concentration et la clarté mentale lors de rituels ou de méditations.",
+      "Talisman d’invocation : Permet de convoquer un esprit mineur pour assister l’utilisateur."
+    ]
+  },
+  "limitations": [
+   "Effets temporaires : Les talismans créés avec ont une durée ou un nombre d'usages limités. Une fois l’effet dissipé, le talisman devient inutilisable.",
+   "Compétence requise : Plus un Ashkarin est expérimenté, plus ses talismans sont puissants et durables. Un novice risque de produire des talismans faibles ou instables.",
+   "Énergie consommée : Le processus d’insufflation puise dans l’énergie vitale de l’Ashkarin, surtout pour les talismans plus complexes. Un excès de talismans créés en peu de temps peut provoquer un épuisement.",
+   "Risques d’instabilité : Une mauvaise maîtrise peut provoquer des effets imprévus, comme un talisman qui s’active de manière aléatoire ou qui produit l’effet inverse de celui recherché.",
+   "Effet de retour : Un talisman mal conçu peut se retourner contre son créateur, drainant son énergie ou provoquant des malédictions involontaires."
+  ]
+},
+{
+  "id": "intangibilite-partielle",
+  "nom": "Intangibilité partielle",
+  "clan": "auralith",
+  "type": "Transmutation",
+  "complexite": "Expert",
+  "contrecoup": "Élevé",
+  "energie": "Moyenne",
+  "description": "L’intangibilité partielle permet de rendre temporairement immatérielles certaines parties du corps, comme un bras, une jambe ou le torse. Cela permet de traverser la matière ou d’éviter des attaques physiques. L’effet est strictement localisé et de courte durée, mais peut s’avérer décisif. Il exige une précision mentale extrême : une erreur de concentration peut provoquer un décalage, un échec d’activation ou une réintégration douloureuse.",
+  "usages": {
+    "offensifs": [
+      "Frappe surprise : Rend un bras intangible pour le faire traverser un mur, un bouclier ou une armure et frapper un point vulnérable.",
+      "Emprise déstabilisante : Passe une main intangible à travers le torse ou la tête d’un adversaire pour provoquer un choc énergétique ou une désorientation."
+    ],
+    "defensifs": [
+      "Esquive ciblée : Rend une zone précise du corps intangible pour laisser passer une attaque physique sans subir de dégâts.",
+      "Évasion rapide : Traverse un obstacle mince (porte, grille, paroi fragile) en rendant un membre ou une partie du corps intangible."
+    ],
+    "pratiques": [
+      "Manipulation délicate : Passe une main à travers une surface solide pour atteindre un objet ou activer un mécanisme.",
+      "Furtivité : Permet de se faufiler dans des espaces étroits sans bruit ni altération visible de l’environnement.",
+      "Contournement de barrières : Traverse certaines protections physiques dans des zones ritualisées ou piégées."
+    ]
+  },
+  "limitations": [
+    "Zone restreinte : Une ou deux parties du corps seulement peuvent être rendues intangibles simultanément.",
+    "Durée très courte : L’effet ne dure que quelques secondes et devient rapidement épuisant s’il est répété.",
+    "Désorientation sensorielle : La zone intangible peut perdre toute sensation temporairement.",
+    "Douleur de réintégration : Le retour à l’état matériel peut provoquer douleurs, engourdissements ou microtraumatismes internes."
+  ]
+},
+{
+  "id": "invisibilite",
+  "nom": "Invisibilité",
+  "clan": "lunthiel",
+  "type": "Camouflage",
+  "complexite": "Expert",
+  "contrecoup": "Modéré",
+  "energie": "Variable",
+  "description": "L’invisibilité permet à l’utilisateur de disparaître à la vue en projetant une fine poudre magique autour de lui à l’aide d’un battement puissant d’ailes. L’effet agit principalement sur le lanceur, mais peut être étendu à d’autres individus ou objets au prix d’un effort physique et énergétique accru. Une dissimulation simple peut être maintenue sans mouvement constant, mais plus le nombre de cibles augmente, plus la concentration et l’intensité requises sont élevées.",
+  "usages": {
+    "offensifs": [
+      "Approche furtive : Permet de s’approcher discrètement d’une cible sans être vu.",
+      "Attaque surprise : Rend une attaque imprévisible en disparaissant juste avant le contact.",
+      "Sabotage : Infiltre un lieu sécurisé pour désactiver un piège ou dérober un objet sans alerter."
+    ],
+    "defensifs": [
+      "Camouflage d’allié : Étend la poudre pour rendre invisible un allié ou un petit groupe.",
+      "Dissimulation d’objet : Rend un objet important invisible pour éviter le vol ou la détection.",
+      "Évasion : Permet de fuir une situation dangereuse sans affrontement direct."
+    ],
+    "pratiques": [
+      "Exploration discrète : Traverse des zones surveillées sans être détectée visuellement.",
+      "Transport dissimulé : Cache des objets ou charges légères pendant un déplacement.",
+      "Surveillance secrète : Observe des événements ou des individus sans être remarquée."
+    ]
+  },
+  "limitations": [
+    "Effort proportionnel : Plus il y a de cibles à rendre invisibles, plus la dépense d’énergie et l’effort physique augmentent.",
+    "Fatigue des ailes : Une utilisation prolongée peut entraîner une fatigue intense ou des douleurs musculaires.",
+    "Consommation de poudre : Chaque activation utilise de la poudre d’ailes, qui se régénère lentement.",
+    "Sensibilité aux éléments : La pluie, le vent ou des perturbations environnementales réduisent l’efficacité du camouflage.",
+    "Détection auditive : L’invisibilité n’efface pas les sons ; battements d’ailes et déplacements peuvent trahir la position."
+  ]
+},
+{
+  "id": "invocations-esprits-feu",
+  "nom": "Invocations d'esprits de feu",
+  "clan": "zanrak",
+  "type": "Feu - Invocation",
+  "complexite": "Confirmé",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "L’invocation d’esprits de feu permet de matérialiser des entités élémentaires issues des flammes. Généralement petites et instables, prenant la forme de flammes animées ou d’humanoïdes éthérés, ces esprits sont volatiles et imprévisibles. Ils peuvent être utilisés pour attaquer, assister ou alimenter des rituels. Leur appel exige une concentration soutenue, une volonté ferme et une bonne maîtrise du feu, sous peine de voir les esprits agir de manière chaotique ou hostile.",
+  "usages": {
+    "offensifs": [
+      "Lance-flammes vivants : Les esprits se projettent sur les ennemis, provoquant brûlures et explosions mineures.",
+      "Harceleurs ardents : Encerclent un adversaire pour le désorienter, réduire sa visibilité ou gêner ses déplacements.",
+      "Création de pièges : Enflamment une zone ou des objets précis pour ralentir, blesser ou bloquer un ennemi."
+    ],
+    "defensifs": [
+      "Gardes élémentaires : Les esprits gravitent autour de l’utilisateur ou d’une zone pour en dissuader l’accès.",
+      "Dissipation du feu : Absorbent ou dispersent des attaques de feu dirigées contre l’invocateur."
+    ],
+    "pratiques": [
+      "Tâches par le feu : Allument des torches, cuisent des aliments ou nettoient par combustion contrôlée.",
+      "Guides lumineux : Servent de sources de lumière mobile dans des zones obscures.",
+      "Soutien rituel : Amplifient ou stabilisent des rituels liés au feu ou à l’énergie élémentaire."
+    ]
+  },
+  "limitations": [
+    "Concentration exigeante : Une distraction peut rompre le contrôle et rendre les esprits autonomes.",
+    "Sensibilité émotionnelle : Les esprits réagissent aux doutes, à la peur ou à l’instabilité mentale de l’invocateur.",
+    "Coût énergétique variable : Plus les esprits sont nombreux ou puissants, plus le risque d’épuisement augmente.",
+    "Danger environnemental : Sans contrôle strict, les esprits peuvent provoquer des incendies involontaires.",
+    "Effet miroir : En cas d’échec majeur, les esprits peuvent se retourner contre l’invocateur ou drainer sa vitalité."
+  ]
+},
+{
+  "id": "levitation",
+  "nom": "Lévitation",
+  "clan": "auralith",
+  "type": "Gravité - Mouvement",
+  "complexite": "Médium",
+  "contrecoup": "Négligeable",
+  "energie": "Variable",
+  "description": "La lévitation permet à l’utilisateur de s’affranchir partiellement ou totalement de la gravité. Elle débute par un simple flottement ou une suspension dans l’air, puis évolue avec l’expérience vers un véritable vol libre. En maîtrisant cette capacité, l’utilisateur peut se déplacer dans les airs, changer de direction à volonté, éviter les obstacles et agir depuis des positions élevées.",
+  "usages": {
+    "offensifs": [
+      "Attaque en piqué : Fond sur un adversaire depuis les airs avec une vitesse et une force d’impact accrues.",
+      "Tirs aériens : Lance des attaques physiques ou magiques depuis une position dominante.",
+      "Mobilité tridimensionnelle : Contourne, esquive ou prend l’avantage en combat grâce à une liberté de mouvement totale."
+    ],
+    "defensifs": [
+      "Esquive verticale : Quitte rapidement une zone de danger ou une attaque de zone en prenant de la hauteur.",
+      "Extraction d’allié : Transporte un allié léger ou inconscient hors d’une situation critique.",
+      "Surveillance aérienne : Maintient une position en altitude pour observer ou protéger un périmètre."
+    ],
+    "pratiques": [
+      "Exploration aérienne : Accède à des zones autrement inatteignables comme des falaises, ravins ou toits.",
+      "Déplacement rapide : Parcourt de longues distances sans être gênée par le relief.",
+      "Usage rituel : Intervient dans des rituels d’ascension, de communion céleste ou d’élévation spirituelle."
+    ]
+  },
+  "limitations": [
+    "Fatigue énergétique : Plus le vol est long, rapide ou chargé, plus il épuise l’énergie de l’utilisateur.",
+    "Risque de chute : Une perte de concentration, une blessure ou une interruption magique peut entraîner une chute violente.",
+    "Exposition à distance : En vol, l’utilisateur reste vulnérable aux attaques à longue portée.",
+    "Contrôle limité chez les novices : Les débutants peinent à stabiliser trajectoire, vitesse et altitude avec précision."
+  ]
+},
+{
+  "id": "lignokinesie",
+  "nom": "Lignokinésie",
+  "clan": "sylthaen",
+  "type": "Nature",
+  "complexite": "Débutant à Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La lignokinésie est une forme de maîtrise élémentaire permettant de contrôler les structures ligneuses telles que les troncs, branches, racines et écorces. À l’instar d’autres kinésies élémentaires, elle offre une interaction directe avec un élément naturel vivant, utilisable à des fins offensives, défensives ou utilitaires. L’utilisateur peut faire croître, sculpter ou animer le bois selon sa volonté. Accessible dès les premiers niveaux de pratique, cette capacité gagne en puissance, en portée et en précision avec l’expérience.",
+  "usages": {
+    "offensifs": [
+      "Attaque de racines : Fait surgir des racines du sol pour immobiliser, frapper ou déséquilibrer un adversaire.",
+      "Branches offensives : Manipule des branches épaisses pour asséner des coups ou projeter des masses ligneuses.",
+      "Éclats d’écorce : Projette des fragments d’écorce durcie comme des projectiles tranchants."
+    ],
+    "defensifs": [
+      "Mur d’écorce : Forme une barrière solide à partir de troncs, d’écorce ou de bois environnant.",
+      "Bouclier de racines : Enroule des racines épaisses autour d’une cible pour absorber les impacts ou la protéger.",
+      "Renforcement structurel : Consolide des constructions en bois (ponts, abris, palissades) pour accroître leur résistance."
+    ],
+    "pratiques": [
+      "Réparation du bois : Répare des objets ligneux endommagés comme des meubles, outils ou armes.",
+      "Construction rapide : Façonne troncs et branches pour créer des abris, ponts ou barricades improvisées.",
+      "Entraves naturelles : Utilise racines et bois pour bloquer un passage ou ralentir une progression ennemie."
+    ]
+  },
+  "limitations": [
+    "Restriction matérielle : Le don n’agit que sur les structures ligneuses ; feuilles, fleurs et plantes herbacées ne sont pas affectées.",
+    "Effet temporaire : Sans stabilisation prolongée, le bois manipulé revient progressivement à son état initial.",
+    "Instabilité émotionnelle : Des émotions fortes peuvent déclencher des réactions involontaires ou excessives du bois.",
+    "Impact écologique : Une utilisation abusive peut fragiliser les sols, déraciner des arbres et endommager l’écosystème local."
+  ]
+},
+{
+  "id": "manipulation-des-courants",
+  "nom": "Manipulation des courants",
+  "clan": "yshelis",
+  "type": "Eau - Energie",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Moyenne",
+  "description": "La manipulation des courants permet de contrôler les flux d’eau en mouvement tels que les marées, rivières, vagues, remous ou tourbillons. Cette capacité ne crée pas de courant, mais modifie ceux déjà existants en ajustant leur direction, leur vitesse ou leur intensité. Contrairement à l’hydrokinésie, qui agit sur la matière de l’eau, ce don agit sur sa force motrice, de manière souvent subtile, continue et stratégique.",
+  "usages": {
+    "offensifs": [
+      "Courant de collision : Amplifie un courant existant pour projeter un ennemi contre une paroi ou l’éjecter à distance.",
+      "Déséquilibre hydraulique : Inverse brutalement un courant sous un adversaire pour le faire chuter ou l’entraîner dans un mouvement chaotique.",
+      "Tourbillon contrôlé : Exploite un remous naturel pour aspirer ou piéger temporairement une cible."
+    ],
+    "defensifs": [
+      "Contre-courant personnel : Génère un flux protecteur autour de l’utilisateur, ralentissant les intrusions ou projectiles sous-marins.",
+      "Voile de dérivation : Dévie ou atténue des courants puissants qui entravent les déplacements.",
+      "Flux ascendant : Crée une poussée verticale permettant d’échapper à un danger ou de franchir un obstacle sous l’eau."
+    ],
+    "pratiques": [
+      "Déplacement optimisé : Utilise les courants pour se propulser plus vite et plus loin avec un effort réduit.",
+      "Transport passif : Oriente un courant afin d’acheminer objets, créatures ou alliés vers une direction choisie.",
+      "Assistance collective : Met en place un courant doux pour guider un groupe ou un banc dans un trajet précis."
+    ]
+  },
+  "limitations": [
+    "Courant nécessaire : Le don est inutilisable en eau stagnante ou sans mouvement.",
+    "Lecture complexe : Les environnements chaotiques rendent les courants difficiles à percevoir et à contrôler.",
+    "Effet non instantané : Modifier un courant puissant demande un court temps de concentration.",
+    "Contrecoup physique : Un changement brutal peut déséquilibrer l’utilisateur s’il ne s’adapte pas immédiatement."
+  ]
+},
+{
+  "id": "memoire-de-pierre",
+  "nom": "Mémoire de pierre",
+  "clan": "kharun",
+  "type": "Terre - Résonance",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Variable",
+  "description": "La mémoire de pierre permet à l’utilisateur d’entrer en résonance avec le sol et la roche naturelle. Il ne s’agit pas d’un contrôle direct : le lanceur présente une intention claire, paume posée contre la surface, dans un silence chargé de volonté. Si la terre reconnaît la demande comme légitime, elle répond par des signes subtils : veines minérales animées, fissures révélatrices ou modifications discrètes de l’environnement. Ces manifestations peuvent guider, signaler un passage, éveiller un lieu ou renforcer des structures existantes.",
+  "usages": {
+    "offensifs": [
+      "Fissure d’alerte : La terre trace une ligne de faille sous un ennemi, provoquant chute, déséquilibre ou rupture du terrain.",
+      "Perturbation tellurique : Génère une instabilité locale rendant le sol tremblant ou résonant, entravant la mobilité adverse."
+    ],
+    "defensifs": [
+      "Éveil de sanctuaire : Dans un lieu lié à la pierre ou aux astrae, déclenche une défense naturelle, un refus d’accès ou une alarme tellurique.",
+      "Ancrage mental : Le contact avec la terre aide le lanceur à se stabiliser émotionnellement en cas de trouble ou de perte de contrôle."
+    ],
+    "pratiques": [
+      "Détection ancienne : Les marques minérales guident vers un lieu oublié, un objet enfoui ou un vestige dissimulé.",
+      "Lien sacré : Sert à sceller un serment, marquer un pacte ou bénir un lieu, la terre agissant comme témoin.",
+      "Renforcement profond : Des racines de pierre consolident lentement mais durablement une structure ou un bâtiment."
+    ]
+  },
+  "limitations": [
+    "Refus possible : Si l’intention est égoïste, destructrice ou instable, la terre peut ne pas répondre ou manifester un rejet.",
+    "Absence de contrôle direct : Le don exige temps, silence et sincérité ; il n’obéit pas à une volonté brute ou immédiate.",
+    "Restriction du support : Inefficace sur les sols artificiels, métalliques ou entièrement transformés.",
+    "Épuisement rituel : Une connexion trop longue ou mal maîtrisée peut entraîner fatigue émotionnelle, vertiges, échos mentaux ou saignements."
+  ]
+},
+{
+  "id": "metamorphose-serpentine",
+  "nom": "Métamorphose serpentine",
+  "clan": "rhazarym",
+  "type": "Métamorphose",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Importante",
+  "description": "La métamorphose serpentine est une transformation totale durant laquelle l’utilisateur abandonne sa forme originelle pour devenir un serpent géant, long et musculeux. La taille et la puissance de la forme dépendent de la maîtrise, mais elle conserve des traits distinctifs : déplacement fluide, force de constriction, regard perçant, parfois crochets venimeux ou écailles renforcées. La transformation est réelle et complète, modifiant le corps, la respiration et la perception. Elle confère une vision thermique, un odorat affiné par la langue et une immersion profonde dans l’instinct animal, que seule une grande maîtrise permet de contenir.",
+  "usages": {
+    "offensifs": [
+      "Constriction : Enroule une cible pour l’immobiliser, l’étouffer ou lui briser les os.",
+      "Morsure venimeuse : Injecte un poison paralysant ou douloureux via des crochets.",
+      "Frappe fouettée : Utilise le corps comme une masse souple et rapide pour désarmer ou projeter un adversaire."
+    ],
+    "defensifs": [
+      "Souplesse d’évasion : Se faufile dans des espaces étroits ou échappe facilement à une prise.",
+      "Esquive instinctive : Anticipe les attaques rapprochées grâce à une perception accrue et un centre de gravité bas.",
+      "Peau écailleuse : Offre une résistance naturelle aux coupures, morsures et projectiles légers."
+    ],
+    "pratiques": [
+      "Escalade naturelle : Grimpe arbres, murs ou structures sans appui.",
+      "Discrétion totale : Se déplace sans bruit, idéale pour l’exploration nocturne ou souterraine.",
+      "Détection vibratoire : Ressent les mouvements environnants par les vibrations du sol.",
+      "Mobilité aquatique : Nage avec aisance et endurance en milieu aquatique."
+    ]
+  },
+  "limitations": [
+    "Fatigue au retour : Une transformation prolongée provoque crampes, courbatures ou désorientation.",
+    "Absence de parole : Impossible de parler sous cette forme, seulement des sifflements.",
+    "Instinct dominant : Une maîtrise insuffisante peut mener à une perte de lucidité et à des réactions dangereuses.",
+    "Puissance dépendante du niveau : Les novices obtiennent une forme plus petite ou instable.",
+    "Sensibilité au froid : Les basses températures ralentissent la forme serpentine et engourdissent ses mouvements."
+  ]
+},
+{
+  "id": "metamorphose-vulpine",
+  "nom": "Métamorphose vulpine",
+  "clan": "ashkarin",
+  "type": "Métamorphose",
+  "complexite": "Médium",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La métamorphose vulpine permet à l’utilisateur de prendre la forme d’un grand renard spectral. Cette transformation renforce fortement la vitesse, l’agilité et la précision magique, en particulier pour les capacités de manipulation telles que les illusions ou les suggestions. Accessible dès les premiers niveaux, elle reste cependant limitée en durée et en stabilité selon la maîtrise : un novice ne peut la maintenir que brièvement, tandis qu’un utilisateur expérimenté peut prolonger la forme sans perte majeure de contrôle.",
+  "usages": {
+    "offensifs": [
+      "Agilité accrue : La forme vulpine rend l’utilisateur extrêmement rapide et difficile à atteindre.",
+      "Attaques rapides : Utilise griffes et crocs pour frapper en mêlée avec vitesse et précision.",
+      "Amplification des illusions : Renforce les sorts de manipulation mentale ou visuelle, rendant illusions et suggestions plus efficaces."
+    ],
+    "defensifs": [
+      "Esquive instinctive : La silhouette fluide et rapide permet d’éviter naturellement attaques physiques ou magiques.",
+      "Leurres spectraux : Génère brièvement des doubles illusoires pour distraire ou tromper un adversaire lors d’une attaque."
+    ],
+    "pratiques": [
+      "Exploration rapide : Parcourt efficacement des environnements dangereux ou étendus.",
+      "Lien spirituel : Facilite la communication avec les esprits de la nature et renforce certains rituels.",
+      "Usage cérémoniel : Incarnation symbolique utilisée lors de rites, célébrations ou invocations sacrées."
+    ]
+  },
+  "limitations": [
+    "Durée dépendante du niveau : Les novices ne tiennent la forme que quelques minutes, tandis que les experts peuvent la maintenir longtemps.",
+    "Fatigue cumulative : Plus la métamorphose dure, plus elle épuise les ressources vitales.",
+    "Douleurs de réintégration : Le retour à la forme humaine provoque courbatures, vertiges et affaiblissement temporaire."
+  ]
+},
+{
+  "id": "meteokinesie",
+  "nom": "Météokinésie",
+  "clan": "kaerios",
+  "type": "Météorologique",
+  "complexite": "Débutant à Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La météokinésie est la capacité d’influencer les phénomènes climatiques existants : pluie, vent, foudre, brouillard, pression atmosphérique ou luminosité. Elle ne crée pas le climat à partir de rien, mais agit sur l’équilibre déjà présent dans l’atmosphère. Cette maîtrise exige une compréhension fine des dynamiques naturelles, car chaque modification peut entraîner des réactions en chaîne. Utilisée avec retenue, elle permet de rétablir l’harmonie ; poussée à l’extrême, elle déclenche un chaos météorologique difficile à contenir.",
+  "usages": {
+    "offensifs": [
+      "Orages localisés : Intensifie pluie, tonnerre et éclairs sur une zone ciblée.",
+      "Tempête soudaine : Déchaîne vents violents et rafales pour désorganiser ou disperser des groupes ennemis.",
+      "Foudre dirigée : Oriente la chute d’un éclair existant vers une cible précise."
+    ],
+    "defensifs": [
+      "Brouillard dense : Génère une brume épaisse pour masquer un groupe ou désorienter des adversaires.",
+      "Stabilisation climatique : Dissipe ou affaiblit une perturbation météo dangereuse ou artificielle.",
+      "Régulation thermique : Modifie localement la température pour protéger des alliés ou ralentir des ennemis."
+    ],
+    "pratiques": [
+      "Gestion climatique durable : Favorise les récoltes, protège un territoire ou prévient des catastrophes naturelles.",
+      "Purification atmosphérique : Utilise pluie ou vents pour nettoyer une zone d’influences néfastes ou de corruption."
+    ]
+  },
+  "limitations": [
+    "Épuisement extrême : La manipulation du climat sollicite fortement le corps, l’esprit et les émotions.",
+    "Effets collatéraux : Chaque altération peut provoquer des conséquences imprévues, parfois à grande échelle.",
+    "Temps de préparation : Les modifications majeures nécessitent concentration prolongée et conditions favorables.",
+    "Instabilité émotionnelle : Un état mental perturbé peut faire perdre le contrôle du phénomène.",
+    "Interactions dangereuses : Une mauvaise synchronisation peut amplifier ou neutraliser d’autres magies élémentaires."
+  ]
+},
+{
+  "id": "mimetisme",
+  "nom": "Mimétisme",
+  "clan": "sylthaen",
+  "type": "Camouflage",
+  "complexite": "Médium",
+  "contrecoup": "Modéré",
+  "energie": "Variable",
+  "description": "Le mimétisme permet à l’utilisateur de se fondre presque parfaitement dans son environnement en adaptant la couleur, les motifs et la texture de sa peau ou de ses vêtements. Ce camouflage naturel rend l’individu très difficile à distinguer à l’œil nu, en particulier s’il reste immobile ou se déplace lentement. Inspiré des capacités de dissimulation animales, ce don est particulièrement efficace pour l’observation, l’infiltration et l’évitement.",
+  "usages": {
+    "offensifs": [
+      "Attaque furtive : Approche une cible sans être repérée pour porter une attaque surprise.",
+      "Espionnage discret : S’infiltre dans des zones surveillées ou écoute des échanges sans attirer l’attention."
+    ],
+    "defensifs": [
+      "Camouflage passif : Se dissimule dans l’environnement pour éviter un affrontement ou échapper à une poursuite."
+    ],
+    "pratiques": [
+      "Observation silencieuse : Observe une scène ou une zone sans risque d’être détectée.",
+      "Survie adaptative : Se cache efficacement dans la nature ou en milieu urbain pour échapper à une menace."
+    ]
+  },
+  "limitations": [
+    "Dépendance à la concentration : Toute panique, distraction ou fatigue peut rompre le camouflage.",
+    "Mouvements lents requis : Les déplacements rapides réduisent fortement l’efficacité du mimétisme.",
+    "Endurance limitée : Maintenir l’effet sur une longue durée entraîne un épuisement progressif.",
+    "Sensibilité aux variations : Une lumière intense, un changement brutal de décor ou un bruit soudain peuvent révéler la silhouette.",
+    "Aucune protection magique : Inefficace contre les sorts ou dispositifs de détection magique."
+  ]
+},
+{
+  "id": "morsure-du-gel",
+  "nom": "Morsure du gel",
+  "clan": "velhaine",
+  "type": "Glace - Pétrification",
+  "complexite": "Médium",
+  "contrecoup": "Variable",
+  "energie": "Faible",
+  "description": "La morsure du gel est une capacité de contact brutale permettant d’injecter un froid extrême directement dans le corps d’un adversaire par une morsure, une griffure ou une entaille. Le froid agit en surface, gelant instantanément la zone touchée. Il peut figer un membre, engourdir une articulation ou provoquer une paralysie temporaire accompagnée de douleur et de rigidité. C’est un pouvoir frontal, sans finesse, pensé pour le combat rapproché et instinctif.",
+  "usages": {
+    "offensifs": [
+      "Gel de membre : Gèle instantanément un bras, une jambe ou une main, limitant fortement son usage.",
+      "Fissuration partielle : Une frappe précise peut fragiliser muscles ou os sous-jacents, rendant la zone vulnérable à un second impact.",
+      "Choc gelé : Provoque une paralysie brève et douloureuse pouvant faire chuter ou désarmer l’adversaire."
+    ],
+    "defensifs": [
+      "Riposte instinctive : Réplique automatiquement par une morsure ou une griffure gelée lors d’un contact direct.",
+      "Dissuasion au corps-à-corps : Rend toute attaque rapprochée risquée pour l’assaillant."
+    ],
+    "pratiques": [
+      "Châtiment corporel : Inflige une punition physique visible et durable sans effusion de sang."
+    ]
+  },
+  "limitations": [
+    "Blessure nécessaire : Le froid ne peut être injecté que via une ouverture dans la chair, même légère.",
+    "Contact obligatoire : Aucun effet à distance, ni sur le sol, les armes ou les structures.",
+    "Résistances au froid : Peu efficace contre des protections naturelles ou magiques anti-gel.",
+    "Usure corporelle : Un usage répété peut endommager les parties du corps utilisées pour mordre ou griffer."
+  ]
+},
+{
+  "id": "mue-tactique",
+  "nom": "Mue tactique",
+  "clan": "rhazarym",
+  "type": "Transmutation",
+  "complexite": "Médium",
+  "contrecoup": "Négligeable",
+  "energie": "Importante",
+  "description": "La mue tactique permet à l’utilisateur de se détacher rapidement d’une couche superficielle de son corps, à la manière d’un serpent quittant sa peau. Cette transmutation ciblée sert à rompre un contact contraignant, se libérer d’une entrave ou purger une altération localisée. La mue peut être partielle ou totale. La peau abandonnée conserve parfois une empreinte énergétique résiduelle, tandis que la nouvelle est plus fraîche, plus réactive, mais temporairement plus vulnérable.",
+  "usages": {
+    "offensifs": [
+      "Contournement magique : Abandonne une marque, une malédiction ou un enchantement de traque ancré dans l’épiderme."
+    ],
+    "defensifs": [
+      "Libération physique : Se libère d’une prise, d’une étreinte, de chaînes ou d’entraves en laissant la peau capturée.",
+      "Purge localisée : Évacue une brûlure, une infection superficielle, une toxine ou un lien magique limité à la couche externe.",
+      "Réinitialisation partielle : Offre un bref regain de réactivité et atténue des douleurs aiguës après la mue."
+    ],
+    "pratiques": [
+      "Disparition tactique : Modifie odeur, texture et signature magique, trompant certaines formes de détection.",
+      "Ressource alchimique : Les peaux muées peuvent être récoltées comme composants pour potions, sorts ou rituels."
+    ]
+  },
+  "limitations": [
+    "Vulnérabilité temporaire : La nouvelle peau est plus sensible à la chaleur, au froid et aux frottements pendant quelques minutes.",
+    "Fatigue cellulaire : Un usage répété accélère l’usure interne et le vieillissement physiologique.",
+    "Portée superficielle : N’affecte que l’épiderme ; blessures internes, fractures et organes ne sont pas soignés.",
+    "Traces exploitables : Les résidus de mue peuvent révéler un passage ou une position à un observateur attentif."
+  ]
+},
+{
+  "id": "onde-aerienne",
+  "nom": "Onde aérienne",
+  "clan": "auralith",
+  "type": "Son - Air",
+  "complexite": "Confirmé",
+  "contrecoup": "Variable",
+  "energie": "Faible",
+  "description": "L’onde aérienne repose sur l’émission de vibrations sonores compressées, assimilables à une impulsion de pression dans l’air, précisément contrôlée et dirigée. Cette onde agit sur les corps et l’environnement en générant une force de poussée : elle repousse, déplace ou déséquilibre sans nécessairement infliger de dégâts. Presque inaudible pour les non-initiés, elle se manifeste comme un souffle sonore mêlant vibration et impact. Elle peut être déclenchée par la voix, un instrument, un geste ou une impulsion magique pure.",
+  "usages": {
+    "offensifs": [
+      "Poussée sonore : Repousse violemment un ennemi ou un objet dans une direction donnée.",
+      "Onde d’impact : Projette ou fait vaciller plusieurs cibles proches par une vibration localisée.",
+      "Neutralisation physique : Déséquilibre ou renverse un adversaire sans le blesser gravement."
+    ],
+    "defensifs": [
+      "Onde circulaire : Génère une impulsion autour de l’utilisateur pour éloigner projectiles ou assaillants proches.",
+      "Déflexion légère : Dévie un projectile léger ou perturbe la trajectoire d’un ennemi en mouvement."
+    ],
+    "pratiques": [
+      "Manipulation à distance : Déplace ou fait tomber des objets légers, ouvre une porte ou dégage un passage.",
+      "Signal vibratoire : Sert de message discret ou d’alerte perceptible par des individus sensibles aux ondes.",
+      "Résonance exploratoire : Permet de détecter des surfaces creuses, fragiles ou instables par vibration."
+    ]
+  },
+  "limitations": [
+    "Portée réduite : L’onde perd rapidement de sa puissance avec la distance.",
+    "Absence de dégâts directs : Le pouvoir provoque du mouvement mais pas de blessures intrinsèques.",
+    "Résonance imprévisible : En milieu confiné, l’onde peut rebondir ou se répercuter de façon inattendue.",
+    "Risque collatéral : Une mauvaise direction peut affecter des alliés proches."
+  ]
+},
+{
+  "id": "onde-perforante",
+  "nom": "Onde perforante",
+  "clan": "rhazarym",
+  "type": "Energie",
+  "complexite": "Confirmé",
+  "contrecoup": "Négligeable",
+  "energie": "Moyenne",
+  "description": "L’onde perforante est une attaque linéaire projetant une impulsion de magie ou de force condensée, suffisamment fine et dense pour percer, trancher ou traverser une cible. Contrairement à une onde de choc, elle ne repousse pas : elle traverse avec précision. Rapide, directe et ciblée, elle est particulièrement efficace contre les défenses statiques, les barrières magiques fines ou les adversaires misant sur la vitesse plutôt que sur la résistance.",
+  "usages": {
+    "offensifs": [
+      "Transpercement direct : Perce net un ennemi non protégé sur une trajectoire rectiligne.",
+      "Brèche ciblée : Fracture une barrière magique fine, instable ou mal ancrée.",
+      "Coup de précision : Vise une articulation, une faille ou une blessure existante pour en aggraver les effets."
+    ],
+    "defensifs": [
+      "Interception perforante : Traverse un projectile entrant ou une attaque magique linéaire pour en annuler l’impact.",
+      "Rupture de lien : Sectionne une chaîne, un fil d’énergie ou un lien magique sur sa trajectoire."
+    ],
+    "pratiques": [
+      "Perçage discret : Ouvre rapidement un passage étroit dans un mur, un sol ou un plafond fragile."
+    ]
+  },
+  "limitations": [
+    "Trajectoire fixe : L’onde ne suit pas la cible et continue tout droit si elle est esquivée.",
+    "Exigence de précision : Une erreur de visée peut provoquer des dégâts collatéraux importants.",
+    "Effet concentré : L’attaque n’a aucune zone d’effet et agit sur une largeur très limitée.",
+    "Absorption possible : Les matériaux souples ou instables peuvent amortir l’impact et empêcher la perforation."
+  ]
+},
+{
+  "id": "ossature-sacree",
+  "nom": "Ossature sacrée",
+  "clan": "kharun",
+  "type": "Transmutation",
+  "complexite": "Expert",
+  "contrecoup": "Élevé",
+  "energie": "Importante",
+  "description": "L’ossature sacrée permet à l’utilisateur de manipuler sa propre structure osseuse de l’intérieur : la renforcer, la modifier ou la faire émerger à travers la chair. Cette transmutation agit directement sur le squelette, offrant une puissance physique accrue, la création d’armes naturelles ou une résistance interne exceptionnelle. Contrairement à un renforcement externe, ce pouvoir est profondément intrusif, douloureux et dangereux, exigeant une maîtrise avancée et une grande tolérance à la souffrance.",
+  "usages": {
+    "offensifs": [
+      "Armes osseuses : Fait émerger lames, pointes ou excroissances tranchantes depuis les bras, coudes, genoux ou épaules.",
+      "Impact renforcé : Durcit le squelette pour frapper avec une force colossale sans fracture immédiate.",
+      "Allonge surprenante : Allonge brièvement griffes, crocs ou os saillants pour atteindre un adversaire hors de portée."
+    ],
+    "defensifs": [
+      "Protection vitale : Renforce la cage thoracique ou le crâne pour protéger les organes essentiels.",
+      "Carapace partielle : Forme un bouclier osseux temporaire à partir des côtes ou des avant-bras pour encaisser un choc."
+    ],
+    "pratiques": [
+      "Compensation corporelle : Réorganise l’ossature pour soutenir temporairement le corps en cas de blessure musculaire ou de faiblesse physique."
+    ]
+  },
+  "limitations": [
+    "Douleur extrême : Toute manipulation osseuse provoque une souffrance intense, même chez les utilisateurs aguerris.",
+    "Séquelles physiques : L’émergence des os entraîne plaies, cicatrices durables et parfois une perte de mobilité.",
+    "Épuisement vital : Le pouvoir draine énergie magique et vitalité corporelle, risquant un affaiblissement prolongé.",
+    "Mutation incontrôlée : Une perte de contrôle peut provoquer une croissance osseuse anarchique, des déformations ou des douleurs chroniques."
+  ]
+},
+{
+  "id": "passage-voltaique",
+  "nom": "Passage voltaïque",
+  "clan": "kaerios",
+  "type": "Électricité - Mobilité",
+  "complexite": "Expert",
+  "contrecoup": "Modéré",
+  "energie": "Faible",
+  "description": "Le passage voltaïque permet à l’utilisateur de se déplacer instantanément en se transformant brièvement en énergie électrique. Son corps devient un arc de foudre, circulant à travers des flux conducteurs présents dans l’environnement avant de se reconstituer ailleurs. Ce déplacement n’est pas une véritable téléportation : il dépend de la présence de supports électriquement chargés ou conducteurs, naturels ou magiques.",
+  "usages": {
+    "offensifs": [
+      "Attaque foudroyante : Combine un passage éclair à une frappe immédiate pour surprendre une cible.",
+      "Frappe en chaîne : Enchaîne plusieurs points conducteurs à grande vitesse pour frapper plusieurs ennemis successivement.",
+      "Traversée offensive : Traverse un ennemi ou une zone saturée de métal ou de conducteurs, infligeant des dégâts électriques."
+    ],
+    "defensifs": [
+      "Repositionnement instantané : Se déplace hors de portée, derrière un adversaire ou sur une position avantageuse.",
+      "Esquive éclair : Évite une attaque imminente en quittant la zone en une fraction de seconde.",
+      "Fuite rapide : Traverse un champ de bataille sans contact direct, au prix d’une signature électrique visible."
+    ],
+    "pratiques": [
+      "Infiltration conductrice : Utilise câbles, structures métalliques ou réseaux énergétiques pour contourner des obstacles.",
+      "Déplacement urbain rapide : Circule à grande vitesse dans des environnements technomagiques ou chargés.",
+      "Lien énergétique bref : Absorbe ou alimente temporairement une source en traversant un nœud d’énergie."
+    ]
+  },
+  "limitations": [
+    "Support requis : Le don est inutilisable sans conducteurs ou charges électriques disponibles.",
+    "Désorientation passagère : La réapparition peut provoquer vertiges, engourdissements ou confusion brève.",
+    "Surcharge nerveuse : Des passages répétés risquent de brûler l’énergie interne et d’endommager le système nerveux.",
+    "Traînée révélatrice : Le déplacement laisse une trace lumineuse et sonore détectable.",
+    "Blocage magique : Certaines zones anti-électricité ou barrières peuvent dévier ou annuler le passage."
+  ]
+},
+{
+  "id": "phytokinesie",
+  "nom": "Phytokinésie",
+  "clan": "lunthiel",
+  "type": "Nature",
+  "complexite": "Débutant à Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La phytokinésie permet de manipuler les plantes vivantes, fleurs et végétation sous toutes leurs formes. L’utilisateur peut stimuler leur croissance, modifier leur structure, renforcer leur résistance ou provoquer des réactions ciblées selon sa volonté. Les plantes deviennent alors de véritables alliées, capables d’attaquer, de protéger ou de transformer l’environnement de manière stratégique. Plus la maîtrise est élevée, plus le contrôle est fin, rapide et durable.",
+  "usages": {
+    "offensifs": [
+      "Lianes entravantes : Fait surgir des lianes ou tiges épaisses pour immobiliser ou ralentir un adversaire.",
+      "Végétation épineuse : Provoque la croissance de buissons ou ronces pour blesser, repousser ou canaliser une menace.",
+      "Poison végétal : Exploite des plantes toxiques pour affaiblir un ennemi ou enduire armes et projectiles."
+    ],
+    "defensifs": [
+      "Mur de feuillage : Érige une barrière végétale dense pour absorber chocs et projectiles.",
+      "Camouflage naturel : Modifie la végétation environnante pour dissimuler l’utilisateur ou un groupe."
+    ],
+    "pratiques": [
+      "Croissance accélérée : Fait pousser rapidement plantes et racines pour créer abris, passages ou structures naturelles.",
+      "Culture magique : Facilite la culture de plantes rares, médicinales ou précieuses.",
+      "Dialogue végétal : Interagit avec les plantes pour percevoir des informations sur leur environnement ou des événements récents."
+    ]
+  },
+  "limitations": [
+    "Végétation vivante requise : Inefficace sur les plantes mortes, le bois travaillé ou les structures artificielles.",
+    "Savoir botanique : Une mauvaise connaissance des plantes limite l’efficacité ou entraîne des erreurs d’usage.",
+    "Coût proportionnel : Plus la plante est grande ou la zone étendue, plus la dépense énergétique augmente.",
+    "Milieux pauvres : Le pouvoir est affaibli dans les environnements arides, stériles ou dépourvus de végétation.",
+    "Croissance incontrôlée : Une maîtrise insuffisante peut provoquer une invasion végétale difficile à contenir."
+  ]
+},
+{
+  "id": "possession-par-un-esprit",
+  "nom": "Possession par un esprit",
+  "clan": "zanrak",
+  "type": "Feu - Invocation",
+  "complexite": "Expert",
+  "contrecoup": "Élevé",
+  "energie": "Importante",
+  "description": "La possession par un esprit permet à l’utilisateur de fusionner temporairement avec une entité spirituelle, partageant son corps et ses sens. Cette union confère une augmentation massive de la puissance physique, de la vitesse et des capacités magiques, en particulier liées au feu. L’équilibre est cependant extrêmement fragile : l’utilisateur doit maintenir une volonté absolue pour rester maître de son corps. Au moindre relâchement, l’esprit peut s’imposer, mettant en péril le corps, l’âme et l’entourage.",
+  "usages": {
+    "offensifs": [
+      "Force surhumaine : Le corps possédé accomplit des exploits physiques impossibles, brisant rochers ou maniant des armes démesurées.",
+      "Déchaînement élémentaire : Les pouvoirs de feu sont amplifiés, produisant flammes plus intenses, explosions accrues et contrôle élargi."
+    ],
+    "defensifs": [
+      "Bouclier spirituel : L’esprit absorbe ou détourne une partie des dégâts subis par l’hôte.",
+      "Réflexes surnaturels : Les perceptions et réactions sont accélérées, facilitant esquives et contres.",
+      "Résilience renforcée : La résistance physique et mentale augmente face aux environnements hostiles et aux attaques psychiques."
+    ],
+    "pratiques": [
+      "Vision spirituelle : L’entité fusionnée révèle des présences invisibles, des flux magiques ou des faiblesses ennemies."
+    ]
+  },
+  "limitations": [
+    "Risque de possession totale : Une faiblesse de volonté permet à l’esprit de prendre le contrôle complet.",
+    "Drain vital : L’esprit consomme énergie magique et force vitale, pouvant mener à l’épuisement ou à la mort.",
+    "Instabilité émotionnelle : Colère, peur ou perte de concentration renforcent l’esprit au détriment du contrôle.",
+    "Dégâts corporels : Une possession prolongée peut provoquer brûlures internes, lésions nerveuses ou vieillissement prématuré.",
+    "Exigence extrême : Seuls des utilisateurs très expérimentés peuvent employer ce don sans conséquences catastrophiques."
+  ]
+},
+{
+  "id": "poudre-d-aile",
+  "nom": "Poudre d'aile",
+  "clan": "lunthiel",
+  "type": "Alchimie",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Variable",
+  "description": "La poudre d’aile est une substance magique sécrétée naturellement par les ailes du Lunthiel. Fine et lumineuse, elle peut être utilisée brute ou intégrée à des préparations alchimiques pour produire divers effets : calmants, stimulants, paralysants ou curatifs. La qualité, la puissance et la stabilité de la poudre dépendent directement de la maîtrise de l’utilisateur. Une production maîtrisée permet des effets précis et durables, tandis qu’un contrôle approximatif génère des résultats faibles ou instables.",
+  "usages": {
+    "offensifs": [
+      "Poudre paralysante : Ralentit fortement ou bloque temporairement les mouvements d’un adversaire.",
+      "Poudre soporifique : Induit un sommeil léger ou une somnolence rapide chez la cible.",
+      "Poudre irritante : Provoque démangeaisons, brûlures légères ou gêne visuelle, réduisant l’efficacité au combat."
+    ],
+    "defensifs": [
+      "Poudre curative : Accélère la guérison de blessures superficielles et apaise la douleur.",
+      "Poudre apaisante : Calme la panique, le stress ou l’agitation émotionnelle d’un allié.",
+      "Poudre de purification : Dissipe toxines légères ou énergies négatives localisées."
+    ],
+    "pratiques": [
+      "Poudre stimulante : Redonne de l’énergie et améliore temporairement concentration et endurance.",
+      "Poudre d’attraction animale : Attire ou apaise certaines créatures animales proches.",
+      "Poudre d’enchantement : Renforce brièvement les capacités magiques ou physiques d’un individu ou d’un objet."
+    ]
+  },
+  "limitations": [
+    "Production limitée : Les ailes ne peuvent produire qu’une quantité restreinte de poudre avant épuisement.",
+    "Affaiblissement progressif : Une surproduction ralentit la régénération des ailes et fatigue l’utilisateur.",
+    "Effets temporaires : La majorité des poudres ont une durée limitée et nécessitent des applications répétées.",
+    "Instabilité de dosage : Une mauvaise préparation peut inverser ou altérer les effets attendus.",
+    "Sensibilité environnementale : L’humidité, le vent ou des conditions extrêmes réduisent l’efficacité de la poudre."
+  ]
+},
+{
+  "id": "projection-d-illusions",
+  "nom": "Projection d’illusions",
+  "clan": "ashkarin",
+  "type": "Psychologique",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Variable",
+  "description": "La projection d’illusions permet d’implanter directement dans l’esprit d’une cible des images, sensations ou scénarios fictifs perçus comme réels. L’illusion ne se manifeste pas dans le monde physique, mais dans la perception même de la cible. La qualité, la stabilité et la profondeur de la projection dépendent entièrement de la maîtrise mentale du lanceur : d’images simples et instables à des environnements sensoriels complets, immersifs et crédibles.",
+  "usages": {
+    "offensifs": [
+      "Illusion de menace : Projette un danger imminent, une créature ou un adversaire fictif pour provoquer panique ou réaction précipitée.",
+      "Altération de l’environnement perçu : Modifie la perception de l’espace pour désorienter, piéger ou forcer un déplacement.",
+      "Détournement sensoriel : Masque une présence réelle en projetant une scène alternative ou un double illusoire."
+    ],
+    "defensifs": [
+      "Refuge illusoire : Convainc la cible qu’elle est protégée ou hors de danger, réduisant son agressivité.",
+      "Dissimulation mentale : Cache l’utilisateur ou un groupe derrière une illusion d’obstacle ou de décor."
+    ],
+    "pratiques": [
+      "Communication mentale : Transmet des messages visuels ou sonores directement dans l’esprit d’une cible.",
+      "Distraction ciblée : Capte l’attention par une scène ou un stimulus fictif.",
+      "Projection émotionnelle : Partage souvenirs ou émotions pour influencer décisions ou comportements."
+    ]
+  },
+  "limitations": [
+    "Concentration soutenue : Toute distraction affaiblit ou fragmente l’illusion.",
+    "Résistance mentale variable : Les esprits entraînés ou lucides peuvent briser l’illusion plus facilement.",
+    "Aucun impact physique : Les illusions n’infligent pas de dégâts réels.",
+    "Surcharge psychique : Un usage prolongé ou multi-cibles provoque migraines, vertiges ou hallucinations chez le lanceur.",
+    "Rebond émotionnel : Les illusions liées à des traumatismes peuvent affecter mentalement l’utilisateur lui-même."
+  ]
+},
+{
+  "id": "projection-lunaire",
+  "nom": "Projection lunaire",
+  "clan": "sylthaën",
+  "type": "Energie",
+  "complexite": "Confirmé",
+  "contrecoup": "Modéré",
+  "energie": "Importante",
+  "description": "La projection lunaire permet de canaliser l’énergie de la lune afin de la condenser et la projeter sous forme d’attaques, de protections ou d’infusions énergétiques. Ce pouvoir est strictement lié à la présence de lumière lunaire et aux cycles célestes : plus la lune est visible, plus l’énergie mobilisable est puissante. L’utilisation demande une synchronisation fine avec les flux lunaires, sans quoi l’énergie devient instable ou incomplète.",
+  "usages": {
+    "offensifs": [
+      "Rayon lunaire : Projette un faisceau concentré de lumière lunaire capable de brûler magiquement ou de repousser certaines entités.",
+      "Impact lunaire : Condense l’énergie en une sphère projetée qui libère une explosion lumineuse à l’impact.",
+      "Affaiblissement spirituel : L’énergie lunaire perturbe et fragilise les entités nocturnes, spirituelles ou corrompues."
+    ],
+    "defensifs": [
+      "Bouclier lunaire : Génère une barrière de lumière protégeant contre attaques physiques ou magiques.",
+      "Aura apaisante : Diffuse une lumière douce repoussant les influences négatives et stabilisant les esprits."
+    ],
+    "pratiques": [
+      "Illumination nocturne : Éclaire une zone sombre pour faciliter déplacements et surveillance.",
+      "Purification rituelle : Nettoie une zone, un objet ou une personne d’influences néfastes lors de rites lunaires."
+    ]
+  },
+  "limitations": [
+    "Utilisable uniquement de nuit : Le pouvoir est inopérant sans lumière lunaire directe ou indirecte.",
+    "Dépendance aux phases lunaires : La puissance varie fortement selon le cycle, maximale à la pleine lune, minimale à la nouvelle lune.",
+    "Fatigue mentale : Une canalisation prolongée entraîne épuisement, baisse de concentration et migraines.",
+    "Instabilité émotionnelle : Les émotions du lanceur influencent l’énergie lunaire, pouvant provoquer des projections imprécises ou excessives."
+  ]
+},
+{
+  "id": "pyrokinesie-ecarlate",
+  "nom": "Pyrokinésie écarlate",
+  "clan": "zanrak",
+  "type": "Feu",
+  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La pyrokinésie écarlate est une maîtrise fondamentale du feu permettant de générer et manipuler des flammes rouges et orangées. Instinctive et relativement accessible, elle constitue la base de nombreuses techniques avancées liées au feu. Les flammes produites peuvent brûler des matériaux inflammables, repousser des adversaires et façonner des zones dangereuses, mais restent brutes et peu raffinées comparées à des formes plus spécialisées.",
+  "usages": {
+    "offensifs": [
+      "Jet de flammes : Projette un torrent de feu en ligne droite pour brûler, repousser ou désorienter une cible.",
+      "Détonation enflammée : Libère une explosion contrôlée de flammes pour briser un obstacle ou semer le chaos.",
+      "Flamme courbe : Guide les flammes autour d’un couvert ou vers un point précis sans ligne directe."
+    ],
+    "defensifs": [
+      "Mur de feu : Érige une barrière incandescente bloquant la progression et dissuadant toute approche."
+    ],
+    "pratiques": [
+      "Allumage instantané : Enflamme torches, foyers ou braseros sans outil.",
+      "Travail artisanal : Chauffe métaux et matériaux pour le forgeage ou l’artisanat simple.",
+      "Signal lumineux : Crée une traînée ou un point de feu visible à grande distance."
+    ]
+  },
+  "limitations": [
+    "Dépendance à l’environnement : L’humidité, la pluie ou le manque d’oxygène réduisent l’efficacité des flammes.",
+    "Contrôle limité : Les flammes sont puissantes mais peu précises, difficiles à modeler finement.",
+    "Instabilité émotionnelle : Colère ou peur peuvent amplifier le feu de façon incontrôlée.",
+    "Risque environnemental : Peut provoquer incendies ou destructions involontaires si mal maîtrisée."
+  ]
+},
+{
+  "id": "pyrokinesie-indigo",
+  "nom": "Pyrokinésie indigo",
+  "clan": "ashkarin",
+  "type": "Feu - Spirituel",
+  "complexite": "Débutant, Médium, Confirmé, Expert",
+  "contrecoup": "Variable",
+  "energie": "Variable",
+  "description": "La pyrokinésie indigo est une forme rare et instable de maîtrise du feu, matérialisée par des flammes bleues ou violettes agissant principalement sur le plan spirituel. Contrairement aux flammes classiques, elles n’attaquent pas prioritairement la chair, mais l’énergie vitale, la volonté et l’ancrage intérieur de la cible. Très réactive aux émotions, cette flamme est à la fois polyvalente et dangereuse : elle peut purifier, affaiblir ou désorienter, mais devient imprévisible en cas de surcharge émotionnelle.",
+  "usages": {
+    "offensifs": [
+      "Brûlure spirituelle : Érode la volonté, la concentration ou l’énergie magique d’une cible.",
+      "Perturbation mentale : Induit confusion, peur ou instabilité émotionnelle via l’exposition aux flammes indigo.",
+      "Affaiblissement ciblé : Inflige des brûlures légères tout en réduisant la résistance spirituelle ou magique."
+    ],
+    "defensifs": [
+      "Barrière spirituelle : Forme un rempart de flammes indigo repoussant entités spirituelles ou magiques.",
+      "Aura dissuasive : Une flamme bleutée autour du corps décourage l’approche et perturbe les intentions hostiles."
+    ],
+    "pratiques": [
+      "Exorcisme : Dissipe ou chasse des entités spirituelles, malédictions ou énergies négatives.",
+      "Support rituel : Utilisée pour purifier, amplifier ou stabiliser des rituels spirituels."
+    ]
+  },
+  "limitations": [
+    "Réactivité émotionnelle extrême : Colère, peur ou détresse peuvent amplifier la flamme hors de contrôle.",
+    "Faible impact physique : Peu efficace contre des adversaires purement matériels ou dépourvus d’énergie spirituelle.",
+    "Dépendance à la cible : Les effets sont réduits sur des êtres ou objets sans énergie spirituelle.",
+    "Risque de surcharge vitale : Une mauvaise maîtrise peut drainer l’énergie vitale de l’utilisateur.",
+    "Durée instable : Les flammes s’éteignent plus vite en environnement humide ou pauvre en énergie spirituelle."
+  ]
+},
+{
+  "id": "regard-petrifiant",
+  "nom": "Regard pétrifiant",
+  "clan": "rhazarym",
+  "type": "Psychique",
+  "complexite": "Expert",
+  "contrecoup": "Variable",
+  "energie": "Moyenne",
+  "description": "Le regard pétrifiant permet de figer temporairement une cible par un simple contact visuel. Il déclenche une réaction de sidération extrême — mêlant choc psychique, peur viscérale et blocage nerveux — au point que le corps se raidit comme s’il devenait pierre. Il ne s’agit pas d’une véritable pétrification physique, mais d’une paralysie profonde affectant muscles, respiration et équilibre. L’intensité de l’effet dépend de la sensibilité mentale de la cible et de la maîtrise émotionnelle de l’utilisateur.",
+  "usages": {
+    "offensifs": [
+      "Paralysie frontale : Interrompt net une attaque ou un sort en figeant la cible sur place.",
+      "Fixation partielle : Immobilise un membre, le cou ou le torse pendant quelques secondes, provoquant chute ou déséquilibre.",
+      "Neutralisation stratégique : Fige une cible pour placer un coup décisif ou empêcher toute fuite."
+    ],
+    "defensifs": [
+      "Dissuasion psychique : Le simple croisement de regard suffit à faire hésiter ou reculer un adversaire.",
+      "Réflexe instinctif : Peut se déclencher en réaction immédiate à une agression directe."
+    ],
+    "pratiques": [
+      "Intimidation contrôlée : Brise la volonté, impose le silence ou force l’attention lors d’un interrogatoire.",
+      "Domination animale : Certains animaux ou créatures reconnaissent ce regard comme un signal de suprématie."
+    ]
+  },
+  "limitations": [
+    "Contact visuel obligatoire : Inefficace si la cible détourne le regard, est aveugle ou protégée visuellement.",
+    "Effet non discriminant : Peut affecter un allié ou se retourner contre l’utilisateur via un miroir ou un renvoi magique.",
+    "Dépendance émotionnelle : Peur, colère ou doute affaiblissent ou interrompent l’effet.",
+    "Contrecoup mental : Un usage excessif ou une cible trop résistante peut provoquer migraines, tremblements ou cécité temporaire."
+  ]
+},
+{
+  "id": "regeneration-par-les-flammes",
+  "nom": "Régénération par les flammes",
+  "clan": "zanrak",
+  "type": "Feu - Soin",
+  "complexite": "Médium",
+  "contrecoup": "Négligeable",
+  "energie": "Faible",
+  "description": "La régénération par les flammes permet à l’utilisateur d’absorber des sources de feu extérieures pour convertir leur chaleur et leur énergie destructrice en force réparatrice. Cette absorption restaure la vitalité physique et, dans une moindre mesure, l’énergie magique. Le feu n’est pas créé ni contrôlé, mais consommé comme un carburant vital, transformant un élément hostile en soutien.",
+  "usages": {
+    "offensifs": [
+      "Contre-attaque énergétique : Absorber une flamme ennemie en plein combat pour se régénérer et reprendre l’avantage de manière inattendue."
+    ],
+    "defensifs": [
+      "Régénération progressive : Utilise une source de feu stable pour soigner lentement des blessures modérées.",
+      "Résilience accrue : Pendant l’absorption, la douleur et la fatigue sont fortement atténuées, prolongeant l’endurance."
+    ],
+    "pratiques": [
+      "Recharge rapide : Permet de récupérer après un effort intense sans nécessiter de repos prolongé.",
+      "Soutien en milieu hostile : Remplace des soins classiques pour les blessures courantes en environnement sauvage.",
+      "Préparation au combat : Absorbe une source de feu à l’avance pour stocker une réserve d’énergie vitale."
+    ]
+  },
+  "limitations": [
+    "Dépendance au feu externe : Le pouvoir est inutilisable sans source de flammes présente.",
+    "Incompatibilité personnelle : Les flammes générées par l’utilisateur lui-même ne peuvent pas être absorbées.",
+    "Soin incomplet : Ne guérit pas blessures mortelles, maladies graves, poisons ou troubles mentaux.",
+    "Contrecoup léger : Une absorption rapide ou excessive peut provoquer étourdissement ou nausée temporaire."
   ]
 }
 ]
