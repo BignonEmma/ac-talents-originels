@@ -7,7 +7,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "L'Aérokinésie est la capacité à manipuler l'air, le vent, les courants atmosphériques et l'oxygène autour de soi. Elle permet à l'utilisateur de déplacer, compresser, détourner ou faire circuler l'air ambiant selon ses besoins. Ce don est utilisé pour créer des mouvements de vent localisés, augmenter l'agilité, déstabiliser un adversaire, ou contrôler la respiration dans un espace donné.",
+    "description": "L'aérokinésie est la capacité à manipuler l'air, le vent, les courants atmosphériques et l'oxygène autour de soi. Elle permet à l'utilisateur de déplacer, compresser, détourner ou faire circuler l'air ambiant selon ses besoins. Ce don est utilisé pour créer des mouvements de vent localisés, augmenter l'agilité, déstabiliser un adversaire, ou contrôler la respiration dans un espace donné.",
     "usages": {
       "offensifs": [
         "Rafale ciblée : Projette un ennemi en arrière ou déséquilibre sa posture.",
@@ -40,7 +40,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Cryokinésie permet de manipuler, créer et modeler la glace ou le froid, à partir de l'humidité ambiante, d'une source d'eau ou par condensation magique. Elle offre à l'utilisateur la capacité de geler, bloquer, trancher ou figer grâce à des structures glacées variées : pointes, murs, chaînes ou projectiles.",
+    "description": "La cryokinésie permet de manipuler, créer et modeler la glace ou le froid, à partir de l'humidité ambiante, d'une source d'eau ou par condensation magique. Elle offre à l'utilisateur la capacité de geler, bloquer, trancher ou figer grâce à des structures glacées variées : pointes, murs, chaînes ou projectiles.",
     "usages": {
       "offensifs": [
         "Projectiles glacés : Lances de glace, pieux, éclats tranchants projetés à distance.",
@@ -74,7 +74,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Gemmokinésie est l'art de manipuler les propriétés magiques et physiques des pierres précieuses, cristaux et minéraux rares. Elle permet d'éveiller des gemmes, d'en canaliser l'énergie, ou de les modeler pour créer des structures offensives ou défensives. Contrairement à la géokinésie, elle n'agit pas sur les masses terrestres, mais sur l'essence vibratoire et énergétique du minéral. C'est une discipline à la fois artistique et martiale, fondée sur la précision plus que sur la force brute.",
+    "description": "La gemmokinésie est l'art de manipuler les propriétés magiques et physiques des pierres précieuses, cristaux et minéraux rares. Elle permet d'éveiller des gemmes, d'en canaliser l'énergie, ou de les modeler pour créer des structures offensives ou défensives. Contrairement à la géokinésie, elle n'agit pas sur les masses terrestres, mais sur l'essence vibratoire et énergétique du minéral. C'est une discipline à la fois artistique et martiale, fondée sur la précision plus que sur la force brute.",
     "usages": {
       "offensifs": [
         "Éclats de gemmes : Projette des fragments tranchants ou vibrants capables de trancher et couper.",
@@ -107,7 +107,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Géokinésie permet de manipuler la terre, la roche, la boue ou le sable en les déplaçant, sculptant ou projetant selon la volonté du lanceur. Ce pouvoir agit uniquement sur des matières naturelles non transformées issues du sol ou des montagnes, qu'elles soient denses comme la pierre ou souples comme la poussière. Il peut être utilisé pour attaquer, se défendre, modifier un terrain ou créer des structures adaptées à la situation.",
+    "description": "La géokinésie permet de manipuler la terre, la roche, la boue ou le sable en les déplaçant, sculptant ou projetant selon la volonté du lanceur. Ce pouvoir agit uniquement sur des matières naturelles non transformées issues du sol ou des montagnes, qu'elles soient denses comme la pierre ou souples comme la poussière. Il peut être utilisé pour attaquer, se défendre, modifier un terrain ou créer des structures adaptées à la situation.",
     "usages": {
       "offensifs": [
         "Piques rocheuses : Fait jaillir une ou plusieurs pointes de pierre pour transpercer ou déséquilibrer.",
@@ -141,7 +141,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "L'Hydrokinésie permet de contrôler, déplacer et modeler l'eau sous forme liquide, qu'elle soit stagnante, en mouvement ou en suspension. L'utilisateur peut diriger des flux, créer des formes, exercer une pression, trancher, protéger ou purifier à l'aide de l'eau. Cette capacité n'altère pas l'état de l'eau, mais l'utilise telle quelle, en réponse à la volonté, aux gestes ou à la concentration de celui qui la manie.",
+    "description": "L'hydrokinésie permet de contrôler, déplacer et modeler l'eau sous forme liquide, qu'elle soit stagnante, en mouvement ou en suspension. L'utilisateur peut diriger des flux, créer des formes, exercer une pression, trancher, protéger ou purifier à l'aide de l'eau. Cette capacité n'altère pas l'état de l'eau, mais l'utilise telle quelle, en réponse à la volonté, aux gestes ou à la concentration de celui qui la manie.",
     "usages": {
       "offensifs": [
         "Jet pressurisé : Lancer un trait d'eau à haute pression pouvant trancher tissus, végétaux ou objets fragiles.",
@@ -174,7 +174,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Lignokinésie est une forme de maîtrise élémentaire permettant de contrôler les structures ligneuses telles que les troncs, branches, racines et écorces. Elle offre une interaction directe avec un élément naturel vivant, utilisable à des fins offensives, défensives ou utilitaires. L'utilisateur peut faire croître, sculpter ou animer le bois selon sa volonté. Accessible dès les premiers niveaux de pratique, cette capacité gagne en puissance, en portée et en précision avec l'expérience.",
+    "description": "La lignokinésie est une forme de maîtrise élémentaire permettant de contrôler les structures ligneuses telles que les troncs, branches, racines et écorces. Elle offre une interaction directe avec un élément naturel vivant, utilisable à des fins offensives, défensives ou utilitaires. L'utilisateur peut faire croître, sculpter ou animer le bois selon sa volonté. Accessible dès les premiers niveaux de pratique, cette capacité gagne en puissance, en portée et en précision avec l'expérience.",
     "usages": {
       "offensifs": [
         "Attaque de racines : Fait surgir des racines du sol pour immobiliser, frapper ou déséquilibrer un adversaire.",
@@ -207,7 +207,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Météokinésie est la capacité de manipuler le climat en influençant des phénomènes atmosphériques existants : pluie, vent, foudre, brouillard, pression ou lumière. Elle ne crée pas des éléments à partir de rien, mais agit sur ce qui est déjà présent dans l'atmosphère. Cette maîtrise demande une compréhension fine de l'équilibre naturel, car chaque changement peut provoquer des réactions en chaîne. Elle permet de déclencher le chaos météorologique ou, au contraire, de rétablir l'harmonie.",
+    "description": "La météokinésie est la capacité de manipuler le climat en influençant des phénomènes atmosphériques existants : pluie, vent, foudre, brouillard, pression ou lumière. Elle ne crée pas des éléments à partir de rien, mais agit sur ce qui est déjà présent dans l'atmosphère. Cette maîtrise demande une compréhension fine de l'équilibre naturel, car chaque changement peut provoquer des réactions en chaîne. Elle permet de déclencher le chaos météorologique ou, au contraire, de rétablir l'harmonie.",
     "usages": {
       "offensifs": [
         "Orages localisés : Provoque des pluies violentes, du tonnerre ou des éclairs tombant sur une zone ciblée.",
@@ -240,7 +240,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Phytokinésie permet de manipuler les plantes vivantes, fleurs et végétation sous toutes leurs formes. L'utilisateur peut stimuler leur croissance, modifier leur structure, renforcer leur résistance ou provoquer des réactions ciblées selon sa volonté. Les plantes deviennent alors de véritables alliées, capables d'attaquer, de protéger ou de transformer l'environnement de manière stratégique. Plus la maîtrise est élevée, plus le contrôle est fin, rapide et durable.",
+    "description": "La phytokinésie permet de manipuler les plantes vivantes, fleurs et végétation sous toutes leurs formes. L'utilisateur peut stimuler leur croissance, modifier leur structure, renforcer leur résistance ou provoquer des réactions ciblées selon sa volonté. Les plantes deviennent alors de véritables alliées, capables d'attaquer, de protéger ou de transformer l'environnement de manière stratégique. Plus la maîtrise est élevée, plus le contrôle est fin, rapide et durable.",
     "usages": {
       "offensifs": [
         "Lianes entravantes : Fait surgir des lianes ou tiges épaisses pour immobiliser ou ralentir un adversaire.",
@@ -273,7 +273,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Pyrokinésie écarlate est une forme de maîtrise du feu permettant de manipuler librement des flammes rouges et orangées. Instinctive et accessible aux débutants, elle sert de base à de nombreuses techniques avancées. Les flammes générées sont assez puissantes pour brûler des matériaux inflammables, repousser des adversaires ou ériger des barrières de feu.",
+    "description": "La pyrokinésie écarlate est une forme de maîtrise du feu permettant de manipuler librement des flammes rouges et orangées. Instinctive et accessible aux débutants, elle sert de base à de nombreuses techniques avancées. Les flammes générées sont assez puissantes pour brûler des matériaux inflammables, repousser des adversaires ou ériger des barrières de feu.",
     "usages": {
       "offensifs": [
         "Jet de flammes : Lance un torrent de feu en ligne droite pour brûler, repousser ou désorienter une cible.",
@@ -304,7 +304,7 @@
     "complexite": "Débutant à Expert",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Pyrokinésie indigo est une forme rare de maîtrise du feu, utilisant des flammes bleues ou violettes qui agissent principalement sur le plan spirituel. Plutôt que de brûler le corps, elles affectent l'énergie vitale ou la force intérieure de la cible. Accessible dès les premiers niveaux, cette capacité est polyvalente (offensive, défensive ou utilitaire) mais reste instable. Les flammes réagissent fortement aux émotions et une surcharge émotionnelle peut en amplifier la puissance de façon imprévisible.",
+    "description": "La pyrokinésie indigo est une forme rare de maîtrise du feu, utilisant des flammes bleues ou violettes qui agissent principalement sur le plan spirituel. Plutôt que de brûler le corps, elles affectent l'énergie vitale ou la force intérieure de la cible. Accessible dès les premiers niveaux, cette capacité est polyvalente (offensive, défensive ou utilitaire) mais reste instable. Les flammes réagissent fortement aux émotions et une surcharge émotionnelle peut en amplifier la puissance de façon imprévisible.",
     "usages": {
       "offensifs": [
         "Brûlure spirituelle : Affaiblit la volonté, la concentration ou l'énergie magique d'une cible plutôt que de causer des blessures physiques graves.",
@@ -336,7 +336,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "L'Accord Brisé est une capacité sonore qui génère une note volontairement dissonante. Ce son strident perturbe l'équilibre auditif et mental de ceux qui l'entendent, brisant les harmonies naturelles. Il peut provoquer vertiges, désorientation, nausées, voire hallucinations chez les plus sensibles.",
+    "description": "L'accord brisé est une capacité sonore qui génère une note volontairement dissonante. Ce son strident perturbe l'équilibre auditif et mental de ceux qui l'entendent, brisant les harmonies naturelles. Il peut provoquer vertiges, désorientation, nausées, voire hallucinations chez les plus sensibles.",
     "usages": {
       "offensifs": [
         "Perturbation mentale : Désoriente l'ennemi au cœur d'un affrontement, le forçant à stopper son action.",
@@ -348,13 +348,13 @@
         "Échappatoire sonore : Permet de créer une diversion intense et douloureuse pour s'enfuir ou regrouper ses forces."
       ],
       "pratiques": [
-        "Purification énergétique : Dans certains rituels, l'Accord Brisé peut servir à briser des liens invisibles ou néfastes, comme des malédictions sonores ou des parasites mentaux.",
+        "Purification énergétique : Dans certains rituels, l'accord brisé peut servir à briser des liens invisibles ou néfastes, comme des malédictions sonores ou des parasites mentaux.",
         "Test de résonance : Permet de localiser des anomalies (illusions cachées, perturbations magiques) par résonance dissonante."
       ]
     },
     "limitations": [
       "Effet non ciblé : L'effet touche toute personne à portée auditive, y compris les alliés. Un usage mal contrôlé peut provoquer des dégâts collatéraux.",
-      "Usure vocale : Répéter trop souvent l'Accord Brisé peut endommager la voix ou l'instrument utilisé comme canal.",
+      "Usure vocale : Répéter trop souvent l'accord brisé peut endommager la voix ou l'instrument utilisé comme canal.",
       "Retour de résonance : Certains environnements peuvent répercuter ou amplifier l'effet, affectant également le lanceur.",
       "Surcharge sensorielle : Un usage excessif peut entraîner des acouphènes, migraines ou désorientation temporaire chez le lanceur.",
       "Inefficace sur les sourds ou esprits insensibles au son."
@@ -368,7 +368,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "L'Armure vivante permet à l'utilisateur de transformer temporairement sa peau en une surface dure et résistante, d'aspect minéral. Cette couche protectrice agit comme une armure naturelle, capable de résister aux lames, aux chocs, aux températures extrêmes et dans certains cas, à la magie élémentaire. La transformation n'affecte ni les os ni les muscles, mais forme une barrière externe, vivante et densifiée, qui offre une protection efficace sans compromettre totalement la mobilité.",
+    "description": "L'armure vivante permet à l'utilisateur de transformer temporairement sa peau en une surface dure et résistante, d'aspect minéral. Cette couche protectrice agit comme une armure naturelle, capable de résister aux lames, aux chocs, aux températures extrêmes et dans certains cas, à la magie élémentaire. La transformation n'affecte ni les os ni les muscles, mais forme une barrière externe, vivante et densifiée, qui offre une protection efficace sans compromettre totalement la mobilité.",
     "usages": {
       "offensifs": [
         "Corps utilisé comme arme : Les bras et jambes renforcés peuvent causer plus de dégâts au contact (coups de poing, charge, etc.).",
@@ -401,7 +401,7 @@
     "complexite": "Médium",
     "contrecoup": "Élevé",
     "energie": "Moyenne",
-    "description": "L'Attraction profonde est une capacité psychique qui rend le lanceur irrésistible aux yeux des autres. Elle altère les perceptions, créant une illusion d'attirance, d'admiration, voire d'amour. Cette influence peut toucher une personne ou un groupe, rendant le lanceur charismatique et séduisant, capable d'infléchir comportements et décisions. Facile à déclencher, son effet dépend cependant de la maîtrise de l'utilisateur : plus la volonté est stable, plus l'illusion dure.",
+    "description": "L'attraction profonde est une capacité psychique qui rend le lanceur irrésistible aux yeux des autres. Elle altère les perceptions, créant une illusion d'attirance, d'admiration, voire d'amour. Cette influence peut toucher une personne ou un groupe, rendant le lanceur charismatique et séduisant, capable d'infléchir comportements et décisions. Facile à déclencher, son effet dépend cependant de la maîtrise de l'utilisateur : plus la volonté est stable, plus l'illusion dure.",
     "usages": {
       "offensifs": [
         "Manipulation : Influencer les pensées ou les actions d'une cible en la rendant plus réceptive aux suggestions.",
@@ -433,7 +433,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Faible",
-    "description": "Le Battement lacérant est une attaque directe et puissante, utilisant la force brute des ailes ou des griffes pour frapper avec une violence accrue. L'impact est renforcé par une énergie magique ou instinctive, ce qui augmente la portée, la vitesse ou la puissance du coup. Relativement facile à déclencher, cette attaque devient redoutable entre les mains d'un combattant expérimenté.",
+    "description": "Le battement lacérant est une attaque directe et puissante, utilisant la force brute des ailes ou des griffes pour frapper avec une violence accrue. L'impact est renforcé par une énergie magique ou instinctive, ce qui augmente la portée, la vitesse ou la puissance du coup. Relativement facile à déclencher, cette attaque devient redoutable entre les mains d'un combattant expérimenté.",
     "usages": {
       "offensifs": [
         "Frappe tranchante : Un battement ou un coup direct qui peut lacérer chair, métal léger ou végétation dense.",
@@ -449,7 +449,7 @@
       ]
     },
     "limitations": [
-      "Demande physique : L'impact d'un Battement lacérant fatigue le membre concerné (aile ou bras), surtout si utilisé plusieurs fois d'affilée.",
+      "Demande physique : L'impact d'un battement lacérant fatigue le membre concerné (aile ou bras), surtout si utilisé plusieurs fois d'affilée.",
       "Portée limitée : L'attaque est à courte portée, nécessitant d'être au contact ou très proche.",
       "Peut endommager l'utilisateur : Un mauvais angle ou une cible trop dure peut blesser la griffe, la membrane de l'aile, ou déséquilibrer le corps.",
       "Sensibilité aux protections magiques : Le don reste une attaque physique : il peut être bloqué par des champs magiques, des armures enchantées ou des protections élémentaires puissantes.",
@@ -464,7 +464,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Faible",
-    "description": "Les Bulles d'oxygène sont une capacité naturelle qui permet de filtrer l'oxygène dissous dans l'eau pour le concentrer dans une membrane aquatique stable, créant ainsi une bulle respirable. Formée à partir de l'eau elle-même, cette bulle est maintenue par une énergie magique suffisante pour une utilisation ponctuelle : respiration sous-marine, secours d'un non-aquatique, ou communication immergée.",
+    "description": "Les bulles d'oxygène sont une capacité naturelle qui permet de filtrer l'oxygène dissous dans l'eau pour le concentrer dans une membrane aquatique stable, créant ainsi une bulle respirable. Formée à partir de l'eau elle-même, cette bulle est maintenue par une énergie magique suffisante pour une utilisation ponctuelle : respiration sous-marine, secours d'un non-aquatique, ou communication immergée.",
     "usages": {
       "offensifs": [
         "Bulle de diversion : En relâchant plusieurs petites bulles réfléchissantes ou bruyantes, on peut perturber la visibilité ou distraire un adversaire.",
@@ -496,7 +496,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "Le Chant hypnotique est une capacité vocale qui consiste à émettre un chant doux, répétitif ou envoûtant, capable de plonger les êtres vivants dans un état de transe partielle. Il ralentit les réactions, capte l'attention et agit sur les sens, les émotions et le rythme du corps : battements du cœur, respiration, tension musculaire. Il ne contrôle pas l'esprit, mais affaiblit la volonté, apaise l'agitation mentale ou physique et ouvre une brèche dans les défenses naturelles.",
+    "description": "Le chant hypnotique est une capacité vocale qui consiste à émettre un chant doux, répétitif ou envoûtant, capable de plonger les êtres vivants dans un état de transe partielle. Il ralentit les réactions, capte l'attention et agit sur les sens, les émotions et le rythme du corps : battements du cœur, respiration, tension musculaire. Il ne contrôle pas l'esprit, mais affaiblit la volonté, apaise l'agitation mentale ou physique et ouvre une brèche dans les défenses naturelles.",
     "usages": {
       "offensifs": [
         "Ralenti sensoriel : Les cibles proches entrent dans un état de latence ou de flottement, ralentissant leurs mouvements ou leurs décisions.",
@@ -517,7 +517,7 @@
     "limitations": [
       "Interruption facile : Une attaque, un bruit soudain, ou une perte de concentration interrompent l'effet immédiatement.",
       "Inefficace sur les esprits fermés ou surprotégés (sujets enragés, cibles sourdes, résistants à la magie mentale).",
-      "Fatigue vocale et mentale : Lancer un Chant hypnotique demande du souffle, de l'équilibre émotionnel, et de la régularité.",
+      "Fatigue vocale et mentale : Lancer un chant hypnotique demande du souffle, de l'équilibre émotionnel, et de la régularité.",
       "Risque d'écho magique : Certains lieux ou entités peuvent renvoyer ou amplifier le chant au détriment du lanceur."
     ]
   },
@@ -529,7 +529,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Moyenne",
-    "description": "La Frappe crépitante est une attaque de contact, brutale et rapide. L'utilisateur concentre une décharge électrique dans son poing ou sa paume, puis la libère au moment de l'impact. L'électricité, générée de l'intérieur ou puisée dans une réserve personnelle, provoque un craquement sec, une lumière vive et une brève détonation. Le coup inflige des dégâts physiques et peut paralyser temporairement la zone touchée.",
+    "description": "La frappe crépitante est une attaque de contact, brutale et rapide. L'utilisateur concentre une décharge électrique dans son poing ou sa paume, puis la libère au moment de l'impact. L'électricité, générée de l'intérieur ou puisée dans une réserve personnelle, provoque un craquement sec, une lumière vive et une brève détonation. Le coup inflige des dégâts physiques et peut paralyser temporairement la zone touchée.",
     "usages": {
       "offensifs": [
         "Coup électrifié : Une frappe amplifiée électriquement, provoquant brûlure et spasme à l'impact.",
@@ -560,7 +560,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Variable",
-    "description": "La Lévitation permet à l'utilisateur de s'affranchir de la gravité. Elle commence par un simple flottement ou une suspension dans l'air, puis évolue, avec l'expérience, vers un véritable vol libre. En maîtrisant cette capacité, il devient possible de se déplacer dans les airs, d'éviter les obstacles, de changer de direction à volonté et d'agir depuis les hauteurs.",
+    "description": "La lévitation permet à l'utilisateur de s'affranchir de la gravité. Elle commence par un simple flottement ou une suspension dans l'air, puis évolue, avec l'expérience, vers un véritable vol libre. En maîtrisant cette capacité, il devient possible de se déplacer dans les airs, d'éviter les obstacles, de changer de direction à volonté et d'agir depuis les hauteurs.",
     "usages": {
       "offensifs": [
         "Attaque en piqué : Fond sur l'adversaire depuis les airs avec une grande vitesse et un impact accru.",
@@ -593,7 +593,7 @@
     "complexite": "Médium",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "La Métamorphose vulpine permet à l'utilisateur de prendre la forme d'un grand renard spectral. Cette transformation renforce fortement la vitesse, l'agilité et la précision magique, en particulier pour les capacités de manipulation telles que les illusions ou les suggestions. Accessible dès les premiers niveaux, elle reste cependant limitée en durée et en stabilité selon la maîtrise : un novice ne peut la maintenir que brièvement, tandis qu'un utilisateur expérimenté peut prolonger la forme sans perte majeure de contrôle.",
+    "description": "La métamorphose vulpine permet à l'utilisateur de prendre la forme d'un grand renard spectral. Cette transformation renforce fortement la vitesse, l'agilité et la précision magique, en particulier pour les capacités de manipulation telles que les illusions ou les suggestions. Accessible dès les premiers niveaux, elle reste cependant limitée en durée et en stabilité selon la maîtrise : un novice ne peut la maintenir que brièvement, tandis qu'un utilisateur expérimenté peut prolonger la forme sans perte majeure de contrôle.",
     "usages": {
       "offensifs": [
         "Agilité accrue : La forme vulpine rend l'utilisateur extrêmement rapide et difficile à atteindre.",
@@ -624,7 +624,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "Le Mimétisme permet à l'utilisateur de se fondre presque parfaitement dans son environnement en adaptant la couleur, les motifs et la texture de sa peau ou de ses vêtements. Ce camouflage naturel rend l'individu très difficile à distinguer à l'œil nu, en particulier s'il reste immobile ou se déplace lentement. Inspiré des capacités de dissimulation animales, ce don est particulièrement efficace pour l'observation, l'infiltration et l'évitement.",
+    "description": "Le mimétisme permet à l'utilisateur de se fondre presque parfaitement dans son environnement en adaptant la couleur, les motifs et la texture de sa peau ou de ses vêtements. Ce camouflage naturel rend l'individu très difficile à distinguer à l'œil nu, en particulier s'il reste immobile ou se déplace lentement. Inspiré des capacités de dissimulation animales, ce don est particulièrement efficace pour l'observation, l'infiltration et l'évitement.",
     "usages": {
       "offensifs": [
         "Attaque furtive : Approche une cible sans être repérée pour porter une attaque surprise.",
@@ -654,7 +654,7 @@
     "complexite": "Médium",
     "contrecoup": "Variable",
     "energie": "Faible",
-    "description": "La Morsure du gel est une capacité de contact brutale, qui permet d'injecter un froid intense dans le corps d'un ennemi par une morsure, une griffure ou une entaille. Le froid agit en surface, gelant instantanément la zone touchée. Il peut figer un membre, engourdir une articulation, ou provoquer une paralysie temporaire accompagnée de douleur et de rigidité. C'est un pouvoir frontal, sans subtilité, taillé pour le corps-à-corps sauvage.",
+    "description": "La morsure du gel est une capacité de contact brutale, qui permet d'injecter un froid intense dans le corps d'un ennemi par une morsure, une griffure ou une entaille. Le froid agit en surface, gelant instantanément la zone touchée. Il peut figer un membre, engourdir une articulation, ou provoquer une paralysie temporaire accompagnée de douleur et de rigidité. C'est un pouvoir frontal, sans subtilité, taillé pour le corps-à-corps sauvage.",
     "usages": {
       "offensifs": [
         "Gel de membre : Gèle instantanément un bras, une jambe ou une main au point d'impact, limitant ou annulant leur usage.",
@@ -684,7 +684,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Importante",
-    "description": "La Mue tactique permet à l'utilisateur de se détacher rapidement d'une couche superficielle de son corps, à la manière d'un serpent quittant sa peau. Cette transmutation ciblée sert à rompre un contact contraignant, se libérer d'une entrave ou purger une altération localisée. La mue peut être partielle ou totale. La peau abandonnée conserve parfois une empreinte énergétique résiduelle, tandis que la nouvelle est plus fraîche, plus réactive, mais temporairement plus vulnérable.",
+    "description": "La mue tactique permet à l'utilisateur de se détacher rapidement d'une couche superficielle de son corps, à la manière d'un serpent quittant sa peau. Cette transmutation ciblée sert à rompre un contact contraignant, se libérer d'une entrave ou purger une altération localisée. La mue peut être partielle ou totale. La peau abandonnée conserve parfois une empreinte énergétique résiduelle, tandis que la nouvelle est plus fraîche, plus réactive, mais temporairement plus vulnérable.",
     "usages": {
       "offensifs": [
         "Contournement magique : Abandonne une marque, une malédiction ou un enchantement de traque ancré dans l'épiderme."
@@ -714,7 +714,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Faible",
-    "description": "La Régénération par les flammes permet à l'utilisateur d'absorber des flammes extérieures (non générées par lui-même) pour restaurer sa vitalité physique ou magique. La chaleur et l'énergie destructrice du feu sont converties en force réparatrice, permettant de soigner des blessures, prolonger un effort ou survivre dans des conditions extrêmes.",
+    "description": "La régénération par les flammes permet à l'utilisateur d'absorber des flammes extérieures (non générées par lui-même) pour restaurer sa vitalité physique ou magique. La chaleur et l'énergie destructrice du feu sont converties en force réparatrice, permettant de soigner des blessures, prolonger un effort ou survivre dans des conditions extrêmes.",
     "usages": {
       "offensifs": [
         "Contre-attaque énergétique : En absorbant une flamme ennemie (sort de feu, torche, environnement en feu), l'utilisateur peut se régénérer au cœur du combat, brisant les attentes de l'adversaire et reprenant l'initiative brutalement."
@@ -744,7 +744,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Faible",
-    "description": "Le Souffle de poussière permet d'expulser ou de manipuler un nuage dense de particules fines (sable, poussière, terre sèche) dans une détonation large mais diffuse. Cette projection sert à perturber les sens, désorienter les ennemis ou masquer des déplacements. Le soulèvement est brutal, contrôlé et agit souvent à courte portée, provoquant des effets temporaires comme l'aveuglement, la gêne respiratoire ou la perte de repères visuels.",
+    "description": "Le souffle de poussière permet d'expulser ou de manipuler un nuage dense de particules fines (sable, poussière, terre sèche) dans une détonation large mais diffuse. Cette projection sert à perturber les sens, désorienter les ennemis ou masquer des déplacements. Le soulèvement est brutal, contrôlé et agit souvent à courte portée, provoquant des effets temporaires comme l'aveuglement, la gêne respiratoire ou la perte de repères visuels.",
     "usages": {
       "offensifs": [
         "Aveuglement temporaire : Un nuage dense empêche l'ennemi de voir, bloquant la visée ou désorientant les sens.",
@@ -777,7 +777,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Faible",
-    "description": "Le Souffle gelé est une capacité élémentaire qui projette un large cône de froid intense depuis la bouche, à la manière d'un souffle draconique. Ce souffle ne blesse pas directement, mais recouvre et fige tout sur son passage, ralentissant mouvements, réactions et propagation d'énergie. Il s'agit d'une vague d'air glacé chargé de magie, idéale pour contrôler un espace, ralentir un groupe ou neutraliser plusieurs cibles en même temps.",
+    "description": "Le souffle gelé est une capacité élémentaire qui projette un large cône de froid intense depuis la bouche, à la manière d'un souffle draconique. Ce souffle ne blesse pas directement, mais recouvre et fige tout sur son passage, ralentissant mouvements, réactions et propagation d'énergie. Il s'agit d'une vague d'air glacé chargé de magie, idéale pour contrôler un espace, ralentir un groupe ou neutraliser plusieurs cibles en même temps.",
     "usages": {
       "offensifs": [
         "Vague de givre : Expulse une vague frontale qui ralentit, engourdit et recouvre d'une fine couche de givre tout ce qu'elle touche.",
@@ -809,7 +809,7 @@
     "complexite": "Médium",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "La Thermokinésie permet de manipuler directement la température ambiante en influençant les flux de chaleur dans un environnement. Contrairement à la pyrokinésie, qui génère du feu, cette capacité agit de manière plus subtile et diffuse. L'utilisateur peut absorber la chaleur pour refroidir, geler, stabiliser une zone ou neutraliser un excès thermique ; ou au contraire libérer de la chaleur pour réchauffer l'air, brûler, provoquer un malaise ou faire fondre certains matériaux.",
+    "description": "La thermokinésie permet de manipuler directement la température ambiante en influençant les flux de chaleur dans un environnement. Contrairement à la pyrokinésie, qui génère du feu, cette capacité agit de manière plus subtile et diffuse. L'utilisateur peut absorber la chaleur pour refroidir, geler, stabiliser une zone ou neutraliser un excès thermique ; ou au contraire libérer de la chaleur pour réchauffer l'air, brûler, provoquer un malaise ou faire fondre certains matériaux.",
     "usages": {
       "offensifs": [
         "Onde thermique : Émet une chaleur intense dans un rayon donné, provoquant inconfort, étourdissement ou brûlures légères.",
@@ -842,7 +842,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Variable",
-    "description": "Le Venin sensoriel permet au porteur de sécréter ou projeter une toxine qui altère les sens d'une cible. Transmis par morsure, griffure, vapeur ou contact magique, ce venin ne cause ni douleur directe ni paralysie, mais perturbe la perception : vision floue, sons déformés, vertiges, inversion des sensations de chaud et de froid, illusions tactiles. Utilisé pour désorienter, neutraliser ou manipuler, il agit selon l'intention du porteur, provoquant confusion, hallucinations sensorielles ou anesthésie localisée.",
+    "description": "Le venin sensoriel permet au porteur de sécréter ou projeter une toxine qui altère les sens d'une cible. Transmis par morsure, griffure, vapeur ou contact magique, ce venin ne cause ni douleur directe ni paralysie, mais perturbe la perception : vision floue, sons déformés, vertiges, inversion des sensations de chaud et de froid, illusions tactiles. Utilisé pour désorienter, neutraliser ou manipuler, il agit selon l'intention du porteur, provoquant confusion, hallucinations sensorielles ou anesthésie localisée.",
     "usages": {
       "offensifs": [
         "Injection directe : Par une morsure ou une griffure, provoque une perte immédiate de repères visuels ou auditifs, rendant la cible vulnérable.",
@@ -861,7 +861,7 @@
     "limitations": [
       "Ne tue pas directement : Le venin sensoriel est non-létal, et ne provoque ni saignement, ni paralysie musculaire.",
       "Effets temporaires : Les symptômes durent quelques secondes à quelques minutes, sauf dosage renforcé.",
-      "Nécessite contact ou proximité : Injection, souffle ou contact physique est nécessaire — pas d'impact à distance pure.",
+      "Nécessite contact ou proximité : Injection, souffle ou contact physique est nécessaire (pas d'impact à distance pure).",
       "Effets imprévisibles selon la cible : Certaines espèces ou individus peuvent résister, ignorer ou amplifier involontairement les effets."
     ]
   },
@@ -873,7 +873,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Faible",
-    "description": "La Vision accrue permet à l'utilisateur d'activer une perception visuelle surdéveloppée, capable de détecter le moindre mouvement à grande distance ou dans l'obscurité. Elle renforce également la précision visuelle, rendant possible la lecture d'inscriptions éloignées, l'analyse d'expressions faciales subtiles ou la détection de traces au sol difficilement repérables. Cette capacité est idéale pour la vigilance, la traque ou l'observation discrète.",
+    "description": "La vision accrue permet à l'utilisateur d'activer une perception visuelle surdéveloppée, capable de détecter le moindre mouvement à grande distance ou dans l'obscurité. Elle renforce également la précision visuelle, rendant possible la lecture d'inscriptions éloignées, l'analyse d'expressions faciales subtiles ou la détection de traces au sol difficilement repérables. Cette capacité est idéale pour la vigilance, la traque ou l'observation discrète.",
     "usages": {
       "offensifs": [
         "Détection d'ennemis : Repérer des adversaires cachés ou dissimulés à longue distance pour mieux attaquer.",
@@ -894,7 +894,7 @@
       "Fatigue visuelle : Une utilisation prolongée peut provoquer une sensation de fatigue oculaire, des maux de tête, ou une vision floue temporaire après désactivation du don.",
       "Sensibilité accrue à la lumière : Pendant l'activation du don, l'utilisateur est plus sensible aux sources lumineuses intenses, ce qui peut provoquer une gêne ou un éblouissement.",
       "Limité à la vue directe : Le don ne permet pas de voir à travers les murs, les objets solides, ou les illusions magiques.",
-      "Aucune détection magique : La Vision accrue ne permet pas de percevoir des présences ou des sorts magiques, à moins qu'ils ne soient visibles à l'œil nu."
+      "Aucune détection magique : La vision accrue ne permet pas de percevoir des présences ou des sorts magiques, à moins qu'ils ne soient visibles à l'œil nu."
     ]
   },
   {
@@ -905,7 +905,7 @@
     "complexite": "Médium",
     "contrecoup": "Variable",
     "energie": "Importante",
-    "description": "Le Vol rapide permet d'accélérer brusquement en plein vol, rendant l'utilisateur difficile à suivre ou à intercepter. Cette capacité est idéale pour esquiver des attaques, fuir un danger ou franchir rapidement de grandes distances. Toutefois, l'accélération soudaine exerce une forte pression sur les ailes, ce qui exige une bonne maîtrise pour éviter les blessures ou l'épuisement.",
+    "description": "Le vol rapide permet d'accélérer brusquement en plein vol, rendant l'utilisateur difficile à suivre ou à intercepter. Cette capacité est idéale pour esquiver des attaques, fuir un danger ou franchir rapidement de grandes distances. Toutefois, l'accélération soudaine exerce une forte pression sur les ailes, ce qui exige une bonne maîtrise pour éviter les blessures ou l'épuisement.",
     "usages": {
       "offensifs": [
         "Esquive rapide : Permet d'éviter des attaques ennemies et de riposter avec une agilité déconcertante.",
@@ -937,7 +937,7 @@
     "complexite": "Médium",
     "contrecoup": "Négligeable",
     "energie": "Faible",
-    "description": "Le Zoolinguisme permet à l'utilisateur de comprendre les animaux en percevant leurs émotions, leurs intentions et leurs formes de communication instinctive. Il ne permet ni de les influencer ni de les contrôler, mais offre une lecture fine de leurs besoins, de leur comportement et des dangers qu'ils peuvent représenter. Cette capacité demande de l'expérience pour éviter les malentendus et affiner la compréhension, surtout entre espèces simples et plus complexes.",
+    "description": "Le zoolinguisme permet à l'utilisateur de comprendre les animaux en percevant leurs émotions, leurs intentions et leurs formes de communication instinctive. Il ne permet ni de les influencer ni de les contrôler, mais offre une lecture fine de leurs besoins, de leur comportement et des dangers qu'ils peuvent représenter. Cette capacité demande de l'expérience pour éviter les malentendus et affiner la compréhension, surtout entre espèces simples et plus complexes.",
     "usages": {
       "offensifs": [],
       "defensifs": [
@@ -951,10 +951,10 @@
       ]
     },
     "limitations": [
-      "Pas de contrôle : Le Zoolinguisme ne permet pas d'influencer ou de contrôler les actions des animaux. Il se limite à la compréhension des messages instinctifs venant d'eux.",
+      "Pas de contrôle : Le zoolinguisme ne permet pas d'influencer ou de contrôler les actions des animaux. Il se limite à la compréhension des messages instinctifs venant d'eux.",
       "Interprétation subjective : Les messages des animaux sont souvent limités à des émotions et perceptions basiques (faim, peur, curiosité). Les concepts complexes sont difficiles à comprendre pour un utilisateur novice.",
       "Fatigue émotionnelle : Ressentir intensément les émotions animales peut entraîner une surcharge émotionnelle, notamment dans des situations de panique ou de danger.",
-      "Dépendance à la proximité : Le Zoolinguisme fonctionne uniquement à courte portée et nécessite une présence physique près des animaux."
+      "Dépendance à la proximité : Le zoolinguisme fonctionne uniquement à courte portée et nécessite une présence physique près des animaux."
     ]
   },
   {
@@ -965,7 +965,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "L'Ancrage sismique permet à l'utilisateur de créer un lien temporaire et profond avec le sol, stabilisant son corps et déclenchant des ondes vibratoires localisées. Cette capacité mêle maîtrise de la terre et contrôle gravitationnel, renforçant la présence physique de l'utilisateur tout en lui permettant d'altérer le terrain par des secousses précises.",
+    "description": "L'ancrage sismique permet à l'utilisateur de créer un lien temporaire et profond avec le sol, stabilisant son corps et déclenchant des ondes vibratoires localisées. Cette capacité mêle maîtrise de la terre et contrôle gravitationnel, renforçant la présence physique de l'utilisateur tout en lui permettant d'altérer le terrain par des secousses précises.",
     "usages": {
       "offensifs": [
         "Onde de choc : Libère une secousse au sol, déséquilibrant les ennemis proches.",
@@ -997,7 +997,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "La Charge orageuse permet à l'utilisateur de tendre la main vers une source électrique naturelle ou latente : orage, champ électrique ou énergie atmosphérique. Il ne crée pas l'éclair, mais le canalise : il l'absorbe dans son corps, l'accueille comme une force vivante, puis la redirige, la relâche ou la conserve brièvement. Cette capacité repose sur une fusion temporaire avec l'énergie brute du ciel, à la fois risquée et puissante.",
+    "description": "La charge orageuse permet à l'utilisateur de tendre la main vers une source électrique naturelle ou latente : orage, champ électrique ou énergie atmosphérique. Il ne crée pas l'éclair, mais le canalise : il l'absorbe dans son corps, l'accueille comme une force vivante, puis la redirige, la relâche ou la conserve brièvement. Cette capacité repose sur une fusion temporaire avec l'énergie brute du ciel, à la fois risquée et puissante.",
     "usages": {
       "offensifs": [
         "Libération ciblée : Redirige la charge stockée sous forme de jet, de décharge à main nue, ou de fouet électrique.",
@@ -1029,7 +1029,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Variable",
     "energie": "Moyenne",
-    "description": "La Divination astrale permet de lire les astres pour recevoir des visions ou des conseils concernant le passé, le présent ou l'avenir. Elle repose sur une connexion profonde aux étoiles et aux cycles célestes, ainsi qu'une grande maîtrise pour interpréter correctement les messages, souvent cryptiques, qu'ils transmettent. Cette capacité peut servir à prédire des événements, répondre à des questions importantes ou guider spirituellement. Mais une interprétation erronée peut entraîner des visions faussées et des conclusions trompeuses.",
+    "description": "La divination astrale permet de lire les astres pour recevoir des visions ou des conseils concernant le passé, le présent ou l'avenir. Elle repose sur une connexion profonde aux étoiles et aux cycles célestes, ainsi qu'une grande maîtrise pour interpréter correctement les messages, souvent cryptiques, qu'ils transmettent. Cette capacité peut servir à prédire des événements, répondre à des questions importantes ou guider spirituellement. Mais une interprétation erronée peut entraîner des visions faussées et des conclusions trompeuses.",
     "usages": {
       "offensifs": [],
       "defensifs": [
@@ -1059,7 +1059,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "L'État brumeux permet à l'utilisateur de transformer temporairement tout ou partie de son corps en brume : une vapeur légère, semi-visible et insaisissable. Sous cette forme, le corps devient immatériel, incapable d'être blessé physiquement et peut se glisser à travers des interstices, esquiver des attaques ou se fondre dans l'environnement. Cette forme reste vulnérable à certains effets et exige un contrôle précis de la cohésion corporelle.",
+    "description": "L'état brumeux permet à l'utilisateur de transformer temporairement tout ou partie de son corps en brume : une vapeur légère, semi-visible et insaisissable. Sous cette forme, le corps devient immatériel, incapable d'être blessé physiquement et peut se glisser à travers des interstices, esquiver des attaques ou se fondre dans l'environnement. Cette forme reste vulnérable à certains effets et exige un contrôle précis de la cohésion corporelle.",
     "usages": {
       "offensifs": [
         "Attaque surprise : Réapparaît d'un état brumeux à proximité immédiate d'un ennemi pour frapper sans être anticipé.",
@@ -1091,7 +1091,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Importante",
-    "description": "La Fluctuation des esprits permet de canaliser l'énergie spirituelle à travers des runes pour capturer l'essence d'un esprit, puis l'infuser dans une arme ou un outil. Le processus confère à l'objet des propriétés uniques selon l'esprit capturé : réactives, offensives, défensives ou destructrices. Cette technique demande une concentration extrême et une maîtrise du forgeron.",
+    "description": "La fluctuation des esprits permet de canaliser l'énergie spirituelle à travers des runes pour capturer l'essence d'un esprit, puis l'infuser dans une arme ou un outil. Le processus confère à l'objet des propriétés uniques selon l'esprit capturé : réactives, offensives, défensives ou destructrices. Cette technique demande une concentration extrême et une maîtrise du forgeron.",
     "usages": {
       "offensifs": [
         "Lames élémentaires : Infuse un esprit de feu, de glace ou de tonnerre dans une arme.",
@@ -1125,7 +1125,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Importante",
-    "description": "La Fréquence harmonique est une capacité intime, propre à chaque individu, profondément liée à son équilibre intérieur. Elle permet d'émettre une onde sonore ou vibratoire en parfaite résonance avec soi-même. Cette vibration, unique à chacun, peut se propager dans l'air, les objets ou les êtres vivants. Son effet varie selon la personne, ses émotions et sa maîtrise : elle peut apaiser, stimuler ou protéger.",
+    "description": "La fréquence harmonique est une capacité intime, propre à chaque individu, profondément liée à son équilibre intérieur. Elle permet d'émettre une onde sonore ou vibratoire en parfaite résonance avec soi-même. Cette vibration, unique à chacun, peut se propager dans l'air, les objets ou les êtres vivants. Son effet varie selon la personne, ses émotions et sa maîtrise : elle peut apaiser, stimuler ou protéger.",
     "usages": {
       "offensifs": [
         "Vibration déstabilisante : Si utilisée avec intention ferme, la fréquence peut désorienter ou briser la concentration d'un adversaire mal aligné spirituellement.",
@@ -1156,7 +1156,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Élevé",
     "energie": "Variable",
-    "description": "La Glace éternelle est une capacité de contact qui permet d'injecter un froid surnaturel directement dans le corps d'un être vivant par une morsure. Ce froid ne congèle pas la surface, mais ralentit les fonctions vitales internes : circulation, respiration, activité cellulaire. Utilisée avec précision, elle peut stabiliser une blessure grave, freiner une infection ou plonger un corps dans un sommeil suspendu. Mal maîtrisée ou utilisée avec hostilité, elle peut figer lentement une cible jusqu'à la stase totale, voire provoquer une mort progressive, sans douleur apparente.",
+    "description": "La glace éternelle est une capacité de contact qui permet d'injecter un froid surnaturel directement dans le corps d'un être vivant par une morsure. Ce froid ne congèle pas la surface, mais ralentit les fonctions vitales internes : circulation, respiration, activité cellulaire. Utilisée avec précision, elle peut stabiliser une blessure grave, freiner une infection ou plonger un corps dans un sommeil suspendu. Mal maîtrisée ou utilisée avec hostilité, elle peut figer lentement une cible jusqu'à la stase totale, voire provoquer une mort progressive, sans douleur apparente.",
     "usages": {
       "offensifs": [
         "Saturation interne : En cas de surdose, le froid interne gèle lentement les organes ou les nerfs, provoquant un affaiblissement extrême.",
@@ -1177,7 +1177,7 @@
       "Proximité nécessaire : Le froid doit être injecté par une morsure. Pas d'usage à distance.",
       "Fragilité corporelle ciblée : Toute erreur de dosage peut geler un organe vital ou causer des dégâts internes irréversibles.",
       "Contamination éclair : Une erreur peut entraîner la contamination de l'utilisateur.",
-      "Forme de dépendance : Chez des sujets affaiblis, la Glace éternelle peut remplacer artificiellement la vie, rendant la personne dépendante du froid pour survivre."
+      "Forme de dépendance : Chez des sujets affaiblis, la glace éternelle peut remplacer artificiellement la vie, rendant la personne dépendante du froid pour survivre."
     ]
   },
   {
@@ -1188,7 +1188,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "L'Harmonie sonore permet à l'utilisateur d'émettre des sons imperceptibles pour les autres, mais parfaitement compréhensibles par les animaux. Ces fréquences ciblées influencent le comportement des créatures, les poussant à aider, protéger ou attaquer selon la volonté du lanceur. Contrairement au Zoolinguisme, qui repose sur l'écoute et la compréhension passive, cette capacité agit de façon active, en guidant ou en manipulant directement la faune environnante.",
+    "description": "L'harmonie sonore permet à l'utilisateur d'émettre des sons imperceptibles pour les autres, mais parfaitement compréhensibles par les animaux. Ces fréquences ciblées influencent le comportement des créatures, les poussant à aider, protéger ou attaquer selon la volonté du lanceur. Contrairement au zoolinguisme, qui repose sur l'écoute et la compréhension passive, cette capacité agit de façon active, en guidant ou en manipulant directement la faune environnante.",
     "usages": {
       "offensifs": [
         "Commande d'attaque : Incite des animaux à attaquer une cible spécifique (un essaim d'insectes, une meute de loups).",
@@ -1207,7 +1207,7 @@
       ]
     },
     "limitations": [
-      "Dépendance aux animaux présents : L'Harmonie sonore ne fonctionne que si des animaux à proximité sont disponibles et réceptifs.",
+      "Dépendance aux animaux présents : L'harmonie sonore ne fonctionne que si des animaux à proximité sont disponibles et réceptifs.",
       "Compréhension limitée : Les animaux réagissent à des sons instinctivement, mais leurs actions peuvent être imprévisibles. Il faut connaître leurs comportements pour éviter les erreurs.",
       "Durée limitée : Maintenir l'influence sonore pendant une longue période demande une concentration soutenue, ce qui peut entraîner une fatigue mentale.",
       "Risque de surstimulation : Une utilisation excessive peut agiter ou désorienter les animaux, les rendant hostiles ou incontrôlables.",
@@ -1222,7 +1222,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "Le Hurlement céleste est un rugissement amplifié par la magie, projeté comme une onde sonore capable d'infliger des dégâts, d'intimider ou d'interagir avec certains éléments magiques ou mécaniques. Plus qu'un simple cri, c'est une vibration canalisée par la gorge et la volonté. Il peut briser des objets fragiles, ébranler les esprits faibles ou même déverrouiller des portes mystiques, comme s'il réveillait quelque chose d'enfoui dans la matière.",
+    "description": "Le hurlement céleste est un rugissement amplifié par la magie, projeté comme une onde sonore capable d'infliger des dégâts, d'intimider ou d'interagir avec certains éléments magiques ou mécaniques. Plus qu'un simple cri, c'est une vibration canalisée par la gorge et la volonté. Il peut briser des objets fragiles, ébranler les esprits faibles ou même déverrouiller des portes mystiques, comme s'il réveillait quelque chose d'enfoui dans la matière.",
     "usages": {
       "offensifs": [
         "Onde de choc frontale : Projette les ennemis proches, les déséquilibre ou les assomme brièvement.",
@@ -1252,7 +1252,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "L'Insufflation d'énergie est une capacité utilisée pour créer des talismans magiques. Par la méditation, l'utilisateur canalise son énergie vitale et sa volonté pour imprégner un objet d'un effet spécifique. Ces talismans peuvent accorder divers avantages, comme le camouflage, l'amplification de pouvoirs ou la protection contre les malédictions. La puissance et la durée de l'effet dépendent de l'expérience : un pratiquant aguerri peut créer des enchantements puissants et durables, tandis qu'un novice produit souvent des effets temporaires ou instables.",
+    "description": "L'insufflation d'énergie est une capacité utilisée pour créer des talismans magiques. Par la méditation, l'utilisateur canalise son énergie vitale et sa volonté pour imprégner un objet d'un effet spécifique. Ces talismans peuvent accorder divers avantages, comme le camouflage, l'amplification de pouvoirs ou la protection contre les malédictions. La puissance et la durée de l'effet dépendent de l'expérience : un pratiquant aguerri peut créer des enchantements puissants et durables, tandis qu'un novice produit souvent des effets temporaires ou instables.",
     "usages": {
       "offensifs": [
         "Talisman de force : Amplifie temporairement la force physique ou magique de l'utilisateur.",
@@ -1286,7 +1286,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Variable",
     "energie": "Variable",
-    "description": "L'Invocation d'esprits de feu permet de matérialiser des entités élémentaires issues des flammes. Généralement petites et instables, prenant la forme de flammes animées ou d'humanoïdes éthérés, ces esprits sont volatiles et imprévisibles. Ils peuvent être utilisés pour attaquer, assister ou alimenter des rituels. Leur appel exige une concentration soutenue, une volonté ferme et une bonne maîtrise du feu, sous peine de voir les esprits agir de manière chaotique ou hostile.",
+    "description": "L'invocation d'esprits de feu permet de matérialiser des entités élémentaires issues des flammes. Généralement petites et instables, prenant la forme de flammes animées ou d'humanoïdes éthérés, ces esprits sont volatiles et imprévisibles. Ils peuvent être utilisés pour attaquer, assister ou alimenter des rituels. Leur appel exige une concentration soutenue, une volonté ferme et une bonne maîtrise du feu, sous peine de voir les esprits agir de manière chaotique ou hostile.",
     "usages": {
       "offensifs": [
         "Lance-flammes vivants : Les esprits se projettent sur les ennemis, provoquant brûlures et explosions mineures.",
@@ -1319,7 +1319,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Moyenne",
-    "description": "La Manipulation des courants permet de contrôler les flux d'eau en mouvement tels que les marées, rivières, vagues, remous ou tourbillons. Cette capacité ne crée pas de courant, mais modifie ceux déjà existants en ajustant leur direction, leur vitesse ou leur intensité. Contrairement à l'Hydrokinésie, qui agit sur la matière de l'eau, ce don agit sur sa force motrice, de manière souvent subtile, continue et stratégique.",
+    "description": "La manipulation des courants permet de contrôler les flux d'eau en mouvement tels que les marées, rivières, vagues, remous ou tourbillons. Cette capacité ne crée pas de courant, mais modifie ceux déjà existants en ajustant leur direction, leur vitesse ou leur intensité. Contrairement à l'hydrokinésie, qui agit sur la matière de l'eau, ce don agit sur sa force motrice, de manière souvent subtile, continue et stratégique.",
     "usages": {
       "offensifs": [
         "Courant de collision : Amplifie un courant existant pour projeter un ennemi contre une paroi ou l'éjecter à distance.",
@@ -1352,7 +1352,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "La Mémoire de pierre permet à l'utilisateur d'entrer en résonance avec le sol et la roche naturelle. Il ne s'agit pas d'un contrôle direct : le lanceur présente une intention claire, paume posée contre la surface, dans un silence chargé de volonté. Si la terre reconnaît la demande comme légitime, elle répond par des signes subtils : veines minérales animées, fissures révélatrices ou modifications discrètes de l'environnement. Ces manifestations peuvent guider, signaler un passage, éveiller un lieu ou renforcer des structures existantes.",
+    "description": "La mémoire de pierre permet à l'utilisateur d'entrer en résonance avec le sol et la roche naturelle. Il ne s'agit pas d'un contrôle direct : le lanceur présente une intention claire, paume posée contre la surface, dans un silence chargé de volonté. Si la terre reconnaît la demande comme légitime, elle répond par des signes subtils : veines minérales animées, fissures révélatrices ou modifications discrètes de l'environnement. Ces manifestations peuvent guider, signaler un passage, éveiller un lieu ou renforcer des structures existantes.",
     "usages": {
       "offensifs": [
         "Fissure d'alerte : La terre trace une ligne de faille sous un ennemi, provoquant chute, déséquilibre ou rupture du terrain.",
@@ -1383,7 +1383,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Importante",
-    "description": "La Métamorphose serpentine est une transformation totale durant laquelle l'utilisateur abandonne sa forme originelle pour devenir un serpent géant, long et musculeux. La taille et la puissance de la forme dépendent de la maîtrise, mais elle conserve des traits distinctifs : déplacement fluide, force de constriction, regard perçant, parfois crochets venimeux ou écailles renforcées. La transformation est réelle et complète, modifiant le corps, la respiration et la perception. Elle confère une vision thermique, un odorat affiné par la langue et une immersion profonde dans l'instinct animal, que seule une grande maîtrise permet de contenir.",
+    "description": "La métamorphose serpentine est une transformation totale durant laquelle l'utilisateur abandonne sa forme originelle pour devenir un serpent géant, long et musculeux. La taille et la puissance de la forme dépendent de la maîtrise, mais elle conserve des traits distinctifs : déplacement fluide, force de constriction, regard perçant, parfois crochets venimeux ou écailles renforcées. La transformation est réelle et complète, modifiant le corps, la respiration et la perception. Elle confère une vision thermique, un odorat affiné par la langue et une immersion profonde dans l'instinct animal, que seule une grande maîtrise permet de contenir.",
     "usages": {
       "offensifs": [
         "Constriction : Enroule une cible pour l'immobiliser, l'étouffer ou lui briser les os.",
@@ -1418,7 +1418,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Variable",
     "energie": "Faible",
-    "description": "L'Onde aérienne repose sur l'émission de vibrations sonores puissantes, semblables à une impulsion de pression dans l'air, mais contrôlées et dirigées. Elle agit sur le corps et l'environnement : elle pousse, repousse, déséquilibre ou déplace par la force du son. Presque inaudible pour les non-initiés, elle s'apparente à un souffle sonore, entre vibration et impact. Elle peut être déclenchée par la voix, un instrument, un geste ou une simple impulsion magique.",
+    "description": "L'onde aérienne repose sur l'émission de vibrations sonores puissantes, semblables à une impulsion de pression dans l'air, mais contrôlées et dirigées. Elle agit sur le corps et l'environnement : elle pousse, repousse, déséquilibre ou déplace par la force du son. Presque inaudible pour les non-initiés, elle s'apparente à un souffle sonore, entre vibration et impact. Elle peut être déclenchée par la voix, un instrument, un geste ou une simple impulsion magique.",
     "usages": {
       "offensifs": [
         "Poussée sonore : Repousse violemment un ennemi ou un objet dans une direction donnée.",
@@ -1450,7 +1450,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Négligeable",
     "energie": "Moyenne",
-    "description": "L'Onde perforante est une attaque linéaire projetant une impulsion de magie ou de force condensée, suffisamment fine et dense pour percer, trancher ou traverser une cible. Contrairement à une onde de choc, elle ne repousse pas : elle traverse avec précision. Rapide, directe et ciblée, elle est particulièrement efficace contre les défenses statiques, les barrières magiques fines ou les adversaires misant sur la vitesse plutôt que sur la résistance.",
+    "description": "L'onde perforante est une attaque linéaire projetant une impulsion de magie ou de force condensée, suffisamment fine et dense pour percer, trancher ou traverser une cible. Contrairement à une onde de choc, elle ne repousse pas : elle traverse avec précision. Rapide, directe et ciblée, elle est particulièrement efficace contre les défenses statiques, les barrières magiques fines ou les adversaires misant sur la vitesse plutôt que sur la résistance.",
     "usages": {
       "offensifs": [
         "Transpercement direct : Perce net un ennemi non protégé sur une trajectoire rectiligne.",
@@ -1480,7 +1480,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "La Poudre d'aile est une substance magique sécrétée naturellement par les ailes du Lunthiel. Fine et lumineuse, elle peut être utilisée brute ou intégrée à des préparations alchimiques pour produire divers effets : calmants, stimulants, paralysants ou curatifs. La qualité, la puissance et la stabilité de la poudre dépendent directement de la maîtrise de l'utilisateur. Une production maîtrisée permet des effets précis et durables, tandis qu'un contrôle approximatif génère des résultats faibles ou instables.",
+    "description": "La poudre d'aile est une substance magique sécrétée naturellement par les ailes du Lunthiel. Fine et lumineuse, elle peut être utilisée brute ou intégrée à des préparations alchimiques pour produire divers effets : calmants, stimulants, paralysants ou curatifs. La qualité, la puissance et la stabilité de la poudre dépendent directement de la maîtrise de l'utilisateur. Une production maîtrisée permet des effets précis et durables, tandis qu'un contrôle approximatif génère des résultats faibles ou instables.",
     "usages": {
       "offensifs": [
         "Poudre paralysante : Ralentit fortement ou bloque temporairement les mouvements d'un adversaire.",
@@ -1514,7 +1514,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "La Projection d'illusions permet d'implanter directement dans l'esprit d'une cible des images, sensations ou scénarios fictifs perçus comme réels. L'illusion ne se manifeste pas dans le monde physique, mais dans la perception même de la cible. La qualité, la stabilité et la profondeur de la projection dépendent entièrement de la maîtrise mentale du lanceur : d'images simples et instables à des environnements sensoriels complets, immersifs et crédibles.",
+    "description": "La projection d'illusions permet d'implanter directement dans l'esprit d'une cible des images, sensations ou scénarios fictifs perçus comme réels. L'illusion ne se manifeste pas dans le monde physique, mais dans la perception même de la cible. La qualité, la stabilité et la profondeur de la projection dépendent entièrement de la maîtrise mentale du lanceur : d'images simples et instables à des environnements sensoriels complets, immersifs et crédibles.",
     "usages": {
       "offensifs": [
         "Illusion de menace : Projette un danger imminent, une créature ou un adversaire fictif pour provoquer panique ou réaction précipitée.",
@@ -1547,7 +1547,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré",
     "energie": "Importante",
-    "description": "La Projection lunaire permet de canaliser l'énergie de la lune afin de la condenser et la projeter sous forme d'attaques, de protections ou d'infusions énergétiques. Ce pouvoir est strictement lié à la présence de lumière lunaire et aux cycles célestes : plus la lune est visible, plus l'énergie mobilisable est puissante. L'utilisation demande une synchronisation fine avec les flux lunaires, sans quoi l'énergie devient instable ou incomplète.",
+    "description": "La projection lunaire permet de canaliser l'énergie de la lune afin de la condenser et la projeter sous forme d'attaques, de protections ou d'infusions énergétiques. Ce pouvoir est strictement lié à la présence de lumière lunaire et aux cycles célestes : plus la lune est visible, plus l'énergie mobilisable est puissante. L'utilisation demande une synchronisation fine avec les flux lunaires, sans quoi l'énergie devient instable ou incomplète.",
     "usages": {
       "offensifs": [
         "Rayon lunaire : Projette un faisceau concentré de lumière lunaire capable de brûler magiquement ou de repousser certaines entités.",
@@ -1578,7 +1578,7 @@
     "complexite": "Confirmé",
     "contrecoup": "Modéré, Élevé",
     "energie": "Importante",
-    "description": "Les Soins hydromantiques permettent de canaliser l'eau environnante (mer, bassin ou humidité ambiante) dans les mains du soigneur, où elle pulse d'une lueur apaisante. Cette eau devient un vecteur d'énergie curative, guidée par la volonté et l'intuition. Elle s'infiltre vers les blessures ou les zones douloureuses, dissout les infections, calme les spasmes et favorise la régénération des tissus.",
+    "description": "Les soins hydromantiques permettent de canaliser l'eau environnante (mer, bassin ou humidité ambiante) dans les mains du soigneur, où elle pulse d'une lueur apaisante. Cette eau devient un vecteur d'énergie curative, guidée par la volonté et l'intuition. Elle s'infiltre vers les blessures ou les zones douloureuses, dissout les infections, calme les spasmes et favorise la régénération des tissus.",
     "usages": {
       "offensifs": [
         "Surcharge inversée : Chez des ennemis sensibles à l'eau ou à la magie corporelle, ce soin peut entraîner une paralysie douce ou un ralentissement si appliqué contre leur volonté."
@@ -1610,7 +1610,7 @@
     "complexite": "Expert",
     "contrecoup": "Modéré",
     "energie": "Importante",
-    "description": "Le Givre sculptural permet de créer des structures de glace façonnées avec précision, puis de leur insuffler un mouvement ou une vitalité magique temporaire. Ce ne sont pas des invocations classiques, mais des créations nées de l'imagination, de la volonté et du contrôle du lanceur. Elles peuvent prendre la forme de statues, armes, créatures, bras supplémentaires, sentinelles ou autre et obéir à des ordres simples. Plus la forme est complexe ou puissante, plus elle demande de temps ou d'énergie à sculpter.",
+    "description": "Le givre sculptural permet de créer des structures de glace façonnées avec précision, puis de leur insuffler un mouvement ou une vitalité magique temporaire. Ce ne sont pas des invocations classiques, mais des créations nées de l'imagination, de la volonté et du contrôle du lanceur. Elles peuvent prendre la forme de statues, armes, créatures, bras supplémentaires, sentinelles ou autre et obéir à des ordres simples. Plus la forme est complexe ou puissante, plus elle demande de temps ou d'énergie à sculpter.",
     "usages": {
       "offensifs": [
         "Créature de glace animée : Un golem, une bête, ou une armure animée qui attaque à la place de l'utilisateur.",
@@ -1644,7 +1644,7 @@
     "complexite": "Expert",
     "contrecoup": "Négligeable",
     "energie": "Moyenne",
-    "description": "Les Gouttes de lune permettent de canaliser l'énergie lunaire pour plonger l'utilisateur dans un sommeil profond et régénérant. Ce repos induit par la lune accélère la récupération physique et mentale, procurant une détente intense et un rétablissement accéléré. Utilisée principalement après un effort prolongé ou un combat éprouvant, cette pratique favorise une guérison naturelle amplifiée par la lumière nocturne.",
+    "description": "Les gouttes de lune permettent de canaliser l'énergie lunaire pour plonger l'utilisateur dans un sommeil profond et régénérant. Ce repos induit par la lune accélère la récupération physique et mentale, procurant une détente intense et un rétablissement accéléré. Utilisée principalement après un effort prolongé ou un combat éprouvant, cette pratique favorise une guérison naturelle amplifiée par la lumière nocturne.",
     "usages": {
       "offensifs": [],
       "defensifs": [
@@ -1653,14 +1653,14 @@
         "Apaisement émotionnel : Réduit le stress et les pensées envahissantes, favorisant un sommeil plus profond et réparateur."
       ],
       "pratiques": [
-        "Repos accéléré : Même une courte sieste sous l'influence des Gouttes de Lune est aussi bénéfique qu'une nuit complète de sommeil.",
+        "Repos accéléré : Même une courte sieste sous l'influence des gouttes de lune est aussi bénéfique qu'une nuit complète de sommeil.",
         "Préparation mentale : Permet de clarifier les pensées et de renforcer la volonté avant un événement important."
       ]
     },
     "limitations": [
       "Nécessite une phase de canalisation : Il faut un moment de concentration pour activer pleinement le don et entrer dans le sommeil profond. Sans une canalisation correcte, le sommeil reste superficiel et peu efficace.",
       "Dépendance à la lumière lunaire : Ce don est plus efficace sous une pleine lune et beaucoup moins sous une lune invisible ou dans des environnements complètement clos.",
-      "Risque de sur-sommeil : Si l'utilisateur reste trop longtemps sous l'influence des Gouttes de Lune, il risque de sombrer dans un état léthargique difficile à rompre, le rendant vulnérable.",
+      "Risque de sur-sommeil : Si l'utilisateur reste trop longtemps sous l'influence des gouttes de lune, il risque de sombrer dans un état léthargique difficile à rompre, le rendant vulnérable.",
       "Risque émotionnel : En cas de surcharge émotionnelle, le don peut être plus difficile à activer ou se rompre avant que la récupération ne soit complète."
     ]
   },
@@ -1672,7 +1672,7 @@
     "complexite": "Expert",
     "contrecoup": "Élevé",
     "energie": "Moyenne",
-    "description": "L'Intangibilité partielle permet de rendre temporairement immatérielles certaines parties du corps, comme un bras, une jambe ou le torse. Cela permet de traverser la matière ou d'éviter des attaques physiques. L'effet est strictement localisé et de courte durée, mais peut s'avérer décisif. Il exige une précision mentale extrême : une erreur de concentration peut provoquer un décalage, un échec d'activation ou une réintégration douloureuse.",
+    "description": "L'intangibilité partielle permet de rendre temporairement immatérielles certaines parties du corps, comme un bras, une jambe ou le torse. Cela permet de traverser la matière ou d'éviter des attaques physiques. L'effet est strictement localisé et de courte durée, mais peut s'avérer décisif. Il exige une précision mentale extrême : une erreur de concentration peut provoquer un décalage, un échec d'activation ou une réintégration douloureuse.",
     "usages": {
       "offensifs": [
         "Frappe surprise : Rend un bras intangible pour le faire traverser un mur, un bouclier ou une armure et frapper un point vulnérable.",
@@ -1703,7 +1703,7 @@
     "complexite": "Expert",
     "contrecoup": "Modéré",
     "energie": "Variable",
-    "description": "L'Invisibilité permet à l'utilisateur de disparaître à la vue en projetant une fine poudre magique autour de lui à l'aide d'un battement puissant d'ailes. L'effet agit principalement sur le lanceur, mais peut être étendu à d'autres individus ou objets au prix d'un effort physique et énergétique accru. Une dissimulation simple peut être maintenue sans mouvement constant, mais plus le nombre de cibles augmente, plus la concentration et l'intensité requises sont élevées.",
+    "description": "L'invisibilité permet à l'utilisateur de disparaître à la vue en projetant une fine poudre magique autour de lui à l'aide d'un battement puissant d'ailes. L'effet agit principalement sur le lanceur, mais peut être étendu à d'autres individus ou objets au prix d'un effort physique et énergétique accru. Une dissimulation simple peut être maintenue sans mouvement constant, mais plus le nombre de cibles augmente, plus la concentration et l'intensité requises sont élevées.",
     "usages": {
       "offensifs": [
         "Approche furtive : Permet de s'approcher discrètement d'une cible sans être vu.",
@@ -1737,7 +1737,7 @@
     "complexite": "Expert",
     "contrecoup": "Élevé",
     "energie": "Importante",
-    "description": "L'Ossature sacrée permet à l'utilisateur de manipuler sa propre structure osseuse de l'intérieur : la renforcer, la modifier ou la faire émerger à travers la chair. Cette transmutation agit directement sur le squelette, offrant une puissance physique accrue, la création d'armes naturelles ou une résistance interne exceptionnelle. Contrairement à un renforcement externe, ce pouvoir est profondément intrusif, douloureux et dangereux, exigeant une maîtrise avancée et une grande tolérance à la souffrance.",
+    "description": "L'ossature sacrée permet à l'utilisateur de manipuler sa propre structure osseuse de l'intérieur : la renforcer, la modifier ou la faire émerger à travers la chair. Cette transmutation agit directement sur le squelette, offrant une puissance physique accrue, la création d'armes naturelles ou une résistance interne exceptionnelle. Contrairement à un renforcement externe, ce pouvoir est profondément intrusif, douloureux et dangereux, exigeant une maîtrise avancée et une grande tolérance à la souffrance.",
     "usages": {
       "offensifs": [
         "Armes osseuses : Fait émerger lames, pointes ou excroissances tranchantes depuis les bras, coudes, genoux ou épaules.",
@@ -1767,7 +1767,7 @@
     "complexite": "Expert",
     "contrecoup": "Modéré",
     "energie": "Faible",
-    "description": "Le Passage voltaïque permet à l'utilisateur de se déplacer instantanément en se transformant brièvement en énergie électrique. Son corps devient un arc de foudre, voyageant à travers les lignes de flux électrique présentes dans l'environnement, avant de réapparaître à un autre point connecté. Ce déplacement n'est pas une vraie téléportation : il nécessite un support conducteur, comme un champ orageux, une charge magique ou un courant naturel.",
+    "description": "Le passage voltaïque permet à l'utilisateur de se déplacer instantanément en se transformant brièvement en énergie électrique. Son corps devient un arc de foudre, voyageant à travers les lignes de flux électrique présentes dans l'environnement, avant de réapparaître à un autre point connecté. Ce déplacement n'est pas une vraie téléportation : il nécessite un support conducteur, comme un champ orageux, une charge magique ou un courant naturel.",
     "usages": {
       "offensifs": [
         "Attaque foudroyante : Associe un passage voltaïque à une frappe immédiate pour une attaque surprise.",
@@ -1801,7 +1801,7 @@
     "complexite": "Expert",
     "contrecoup": "Élevé",
     "energie": "Importante",
-    "description": "La Possession par un esprit permet à l'utilisateur de fusionner temporairement avec une entité spirituelle, partageant son corps et ses sens. Cette union confère une augmentation massive de la puissance physique, de la vitesse et des capacités magiques, en particulier liées au feu. L'équilibre est cependant extrêmement fragile : l'utilisateur doit maintenir une volonté absolue pour rester maître de son corps. Au moindre relâchement, l'esprit peut s'imposer, mettant en péril le corps, l'âme et l'entourage.",
+    "description": "La possession par un esprit permet à l'utilisateur de fusionner temporairement avec une entité spirituelle, partageant son corps et ses sens. Cette union confère une augmentation massive de la puissance physique, de la vitesse et des capacités magiques, en particulier liées au feu. L'équilibre est cependant extrêmement fragile : l'utilisateur doit maintenir une volonté absolue pour rester maître de son corps. Au moindre relâchement, l'esprit peut s'imposer, mettant en péril le corps, l'âme et l'entourage.",
     "usages": {
       "offensifs": [
         "Force surhumaine : Le corps possédé accomplit des exploits physiques impossibles, brisant rochers ou maniant des armes démesurées.",
@@ -1832,7 +1832,7 @@
     "complexite": "Expert",
     "contrecoup": "Variable",
     "energie": "Moyenne",
-    "description": "Le Regard pétrifiant permet de figer temporairement une cible par un simple contact visuel. Il déclenche une réaction de sidération extrême — mêlant choc psychique, peur viscérale et blocage nerveux — au point que le corps se raidit comme s'il devenait pierre. Il ne s'agit pas d'une véritable pétrification physique, mais d'une paralysie profonde affectant muscles, respiration et équilibre. L'intensité de l'effet dépend de la sensibilité mentale de la cible et de la maîtrise émotionnelle de l'utilisateur.",
+    "description": "Le regard pétrifiant permet de figer temporairement une cible par un simple contact visuel. Il déclenche une réaction de sidération extrême (mêlant choc psychique, peur viscérale et blocage nerveux), au point que le corps se raidit comme s'il devenait pierre. Il ne s'agit pas d'une véritable pétrification physique, mais d'une paralysie profonde affectant muscles, respiration et équilibre. L'intensité de l'effet dépend de la sensibilité mentale de la cible et de la maîtrise émotionnelle de l'utilisateur.",
     "usages": {
       "offensifs": [
         "Paralysie frontale : Interrompt net une attaque ou un sort en figeant la cible sur place.",
@@ -1863,7 +1863,7 @@
     "complexite": "Expert",
     "contrecoup": "Variable",
     "energie": "Importante",
-    "description": "La Suggestion hypnotique est une capacité mentale qui permet d'implanter une idée, une émotion ou une impulsion passagère dans l'esprit d'une cible, en agissant sur son subconscient. Contrairement au Chant hypnotique, elle n'a pas de composante sonore : elle passe par le regard, la parole, ou une présence marquante, dès qu'un contact mental ou émotionnel s'établit. Elle n'impose rien de force, mais influence la cible à agir comme si l'idée venait d'elle, surtout si la suggestion paraît logique ou séduisante.",
+    "description": "La suggestion hypnotique est une capacité mentale qui permet d'implanter une idée, une émotion ou une impulsion passagère dans l'esprit d'une cible, en agissant sur son subconscient. Contrairement au chant hypnotique, elle n'a pas de composante sonore : elle passe par le regard, la parole, ou une présence marquante, dès qu'un contact mental ou émotionnel s'établit. Elle n'impose rien de force, mais influence la cible à agir comme si l'idée venait d'elle, surtout si la suggestion paraît logique ou séduisante.",
     "usages": {
       "offensifs": [
         "Implantation d'un réflexe : Faire croire qu'un allié est un ennemi, ou pousser à baisser sa garde, hésiter, fuir ou se rendre.",
@@ -1898,7 +1898,7 @@
     "complexite": "Expert",
     "contrecoup": "Modéré",
     "energie": "Importante",
-    "description": "La Suggestion intra-sommeil permet d'entrer dans l'esprit d'un individu endormi pour y implanter idées, émotions ou sensations. Elle agit sur le subconscient, influençant pensées et comportements après le réveil. Les suggestions peuvent être simples (sensation de sécurité, malaise diffus) ou complexes (implantation d'une idée, altération d'un souvenir). Cette capacité demande une grande maîtrise, car elle implique de traverser l'esprit d'autrui sans se perdre dans ses propres projections mentales.",
+    "description": "La suggestion intra-sommeil permet d'entrer dans l'esprit d'un individu endormi pour y implanter idées, émotions ou sensations. Elle agit sur le subconscient, influençant pensées et comportements après le réveil. Les suggestions peuvent être simples (sensation de sécurité, malaise diffus) ou complexes (implantation d'une idée, altération d'un souvenir). Cette capacité demande une grande maîtrise, car elle implique de traverser l'esprit d'autrui sans se perdre dans ses propres projections mentales.",
     "usages": {
       "offensifs": [
         "Implantation d'une peur : Induit un cauchemar persistant, implantant une phobie ou un sentiment d'insécurité durable.",
